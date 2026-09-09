@@ -11,9 +11,9 @@ const LINKS = {
   suratKrsTerlambat: "",
   jadwal: "",
   kalender: "",
-  youtube: "",
-  whatsapp: "",
-  email: ""
+  youtube: "fakultas teknik uncen",
+  whatsapp: "081245362209",
+  email: "bondansangadji7@gmail.com"
 };
 
 document.getElementById("year").textContent = new Date().getFullYear();
