@@ -24,9 +24,9 @@ const LINKS = {
   kalender: "",
 
   // MEDIA / KONTAK
-  youtube: "",
-  whatsapp: "",
-  email: ""
+  youtube: "https://www.youtube.com/@fakultasteknikuncen",
+  whatsapp: "081245362209",
+  email: "bondansangadji7@gmail.com"
 };
 
 
