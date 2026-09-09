@@ -7,7 +7,7 @@
 const LINKS = {
   krs: "",
   semesterAntara: "",
-  form ubah Krs: " https://docs.google.com/document/d/1pX8olu3GH4E2G9Oo0eq5W7nZlzU0LCNS/edit?usp=sharing&ouid=115644105546172445736&rtpof=true&sd=true ",
+  form Krs: " https://docs.google.com/document/d/1pX8olu3GH4E2G9Oo0eq5W7nZlzU0LCNS/edit?usp=sharing&ouid=115644105546172445736&rtpof=true&sd=true ",
   suratKrsTerlambat: "",
   jadwal: "",
   kalender: "",
