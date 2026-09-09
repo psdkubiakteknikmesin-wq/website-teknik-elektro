@@ -16,8 +16,10 @@ const LINKS = {
   semesterAntara: "",
 
   // DOKUMEN
-  formKrs: "",
-  suratKrsTerlambat: "",
+  formKrs: "https://docs.google.com/document/d/1pX8olu3GH4E2G9Oo0eq5W7nZlzU0LCNS/export?format=pdf",
+
+  suratKrsTerlambat: "https://docs.google.com/document/d/1uNB5lX0ZcsO98jB4Maqvpmf4Dy5-rjOI/export?format=pdf",
+
   jadwal: "",
   kalender: "",
 
