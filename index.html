@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Website Program Studi Teknik Elektro Fakultas Teknik Universitas Cenderawasih">
+  <title>Teknik Elektro | Fakultas Teknik Universitas Cenderawasih</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container nav-wrap">
+      <a class="brand" href="#home">
+        <div class="logo-placeholder">TE</div>
+        <div>
+          <strong>TEKNIK ELEKTRO</strong>
+          <span>Fakultas Teknik • Universitas Cenderawasih</span>
+        </div>
+      </a>
+      <button class="menu-toggle" id="menuToggle" aria-label="Buka menu">☰</button>
+      <nav id="navMenu">
+        <a href="#home">Beranda</a>
+        <a href="#profil">Profil</a>
+        <a href="#akademik">Akademik</a>
+        <a href="#layanan">Layanan</a>
+        <a href="#pengumuman">Pengumuman</a>
+        <a href="#download">Download</a>
+        <a href="#kontak">Kontak</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="home" class="hero">
+      <div class="container hero-grid">
+        <div>
+          <span class="eyebrow">FAKULTAS TEKNIK • UNIVERSITAS CENDERAWASIH</span>
+          <h1>Program Studi<br><span>Teknik Elektro</span></h1>
+          <p>Membangun sumber daya manusia unggul di bidang ketenagalistrikan, elektronika, telekomunikasi, komputer, dan teknologi digital untuk Papua dan Indonesia.</p>
+          <div class="hero-actions">
+            <a class="btn primary" href="#layanan">Layanan Akademik</a>
+            <a class="btn secondary" href="#profil">Lihat Profil</a>
+          </div>
+        </div>
+        <div class="hero-card">
+          <div class="circuit">⚡</div>
+          <h3>Portal Informasi Akademik</h3>
+          <p>Jadwal, KRS, semester antara, pengumuman, dan dokumen akademik dalam satu tempat.</p>
+          <div class="quick-stats">
+            <div><b>9</b><span>Maks. SKS Semester Antara</span></div>
+            <div><b>150K</b><span>Tarif/SKS</span></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="notice">
+      <div class="container notice-inner">
+        <strong>📢 INFORMASI</strong>
+        <span id="noticeText">Selamat datang di Website Teknik Elektro Fakultas Teknik Universitas Cenderawasih.</span>
+      </div>
+    </section>
+
+    <section id="profil" class="section">
+      <div class="container two-col">
+        <div>
+          <span class="section-label">PROFIL</span>
+          <h2>Teknik Elektro Universitas Cenderawasih</h2>
+          <p>Website ini menjadi pusat informasi Program Studi Teknik Elektro untuk mendukung layanan akademik yang cepat, mudah, dan terintegrasi.</p>
+          <p>Silakan gunakan menu di atas untuk mengakses informasi akademik dan layanan mahasiswa.</p>
+        </div>
+        <div class="info-card">
+          <h3>Visi</h3>
+          <p>Menjadi program studi teknik elektro yang unggul dalam pendidikan, penelitian, dan pengabdian kepada masyarakat berbasis potensi Papua.</p>
+          <hr>
+          <h3>Bidang Keahlian</h3>
+          <div class="tags">
+            <span>Ketenagalistrikan</span><span>Elektronika</span><span>Telekomunikasi</span>
+            <span>Sistem Komputer</span><span>Kontrol</span><span>Energi Terbarukan</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="akademik" class="section alt">
+      <div class="container">
+        <span class="section-label">AKADEMIK</span>
+        <h2>Informasi Akademik</h2>
+        <div class="cards">
+          <article class="card"><div class="icon">📅</div><h3>Jadwal Kuliah</h3><p>Lihat jadwal perkuliahan dan informasi kelas.</p><a href="#download">Buka →</a></article>
+          <article class="card"><div class="icon">📝</div><h3>KRS Online</h3><p>Akses pendaftaran KRS melalui sistem akademik.</p><a href="#layanan">Buka →</a></article>
+          <article class="card"><div class="icon">🎓</div><h3>Kurikulum</h3><p>Informasi mata kuliah dan struktur kurikulum.</p><a href="#download">Buka →</a></article>
+          <article class="card"><div class="icon">📢</div><h3>Pengumuman</h3><p>Informasi terbaru untuk mahasiswa.</p><a href="#pengumuman">Buka →</a></article>
+        </div>
+      </div>
+    </section>
+
+    <section id="layanan" class="section">
+      <div class="container">
+        <span class="section-label">LAYANAN</span>
+        <h2>Layanan Mahasiswa</h2>
+        <div class="service-grid">
+          <a class="service" href="#" onclick="showMessage('Tautan KRS belum diisi. Silakan masukkan link Google Apps Script Anda di script.js.');return false;"><span>📝</span><div><b>KRS Online</b><small>Pengisian KRS mahasiswa</small></div></a>
+          <a class="service" href="#" onclick="showMessage('Tautan Semester Antara belum diisi.');return false;"><span>📚</span><div><b>Semester Antara</b><small>Pendaftaran maksimal 9 SKS</small></div></a>
+          <a class="service" href="#download"><span>📄</span><div><b>Dokumen Akademik</b><small>Formulir dan surat</small></div></a>
+          <a class="service" href="#kontak"><span>☎️</span><div><b>Hubungi Prodi</b><small>Informasi dan bantuan</small></div></a>
+        </div>
+      </div>
+    </section>
+
+    <section id="pengumuman" class="section alt">
+      <div class="container">
+        <span class="section-label">PENGUMUMAN</span>
+        <h2>Pengumuman Terbaru</h2>
+        <div class="announcement">
+          <div class="date">2026<br><b>SEP</b></div>
+          <div><span class="pill">AKADEMIK</span><h3>Portal Informasi Teknik Elektro</h3><p>Website resmi ini dapat digunakan sebagai pusat informasi akademik dan layanan mahasiswa.</p></div>
+        </div>
+        <div class="announcement">
+          <div class="date">2026<br><b>2027</b></div>
+          <div><span class="pill">JADWAL</span><h3>Jadwal Semester Ganjil</h3><p>Silakan cek menu download untuk mengakses dokumen jadwal yang tersedia.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="download" class="section">
+      <div class="container">
+        <span class="section-label">DOWNLOAD</span>
+        <h2>Dokumen Akademik</h2>
+        <div class="download-list">
+          <a href="#" onclick="showMessage('Silakan tambahkan URL file PDF/Google Drive pada script.js.');return false;">📄 Form KRS <span>Download →</span></a>
+          <a href="#" onclick="showMessage('Silakan tambahkan URL file PDF/Google Drive pada script.js.');return false;">📄 Surat Pernyataan KRS Terlambat <span>Download →</span></a>
+          <a href="#" onclick="showMessage('Silakan tambahkan URL file PDF/Google Drive pada script.js.');return false;">📄 Jadwal Kuliah <span>Download →</span></a>
+          <a href="#" onclick="showMessage('Silakan tambahkan URL file PDF/Google Drive pada script.js.');return false;">📄 Kalender Akademik <span>Download →</span></a>
+        </div>
+      </div>
+    </section>
+
+    <section id="kontak" class="section contact">
+      <div class="container two-col">
+        <div>
+          <span class="section-label">KONTAK</span>
+          <h2>Hubungi Teknik Elektro</h2>
+          <p>Fakultas Teknik Universitas Cenderawasih</p>
+          <p>Jayapura, Papua, Indonesia</p>
+        </div>
+        <div class="contact-card">
+          <p>📧 <b>Email:</b> <span>Tambahkan email prodi</span></p>
+          <p>📱 <b>WhatsApp:</b> <span>Tambahkan nomor layanan</span></p>
+          <p>▶️ <b>YouTube:</b> <span>Fakultas Teknik Uncen</span></p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container footer-inner">
+      <div><b>TEKNIK ELEKTRO</b><br><small>Fakultas Teknik Universitas Cenderawasih</small></div>
+      <small>© <span id="year"></span> Teknik Elektro. All rights reserved.</small>
+    </div>
+  </footer>
+
+  <div id="toast" class="toast"></div>
+  <script src="script.js"></script>
+</body>
+</html>
