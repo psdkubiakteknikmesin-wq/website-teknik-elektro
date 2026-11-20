@@ -1,0 +1,15 @@
+siprel.elektro.uncen.ac.id {
+    encode gzip
+    reverse_proxy 127.0.0.1:3000
+
+    header {
+        X-Content-Type-Options nosniff
+        Referrer-Policy strict-origin-when-cross-origin
+        -Server
+    }
+}
+
+# Untuk pengujian tanpa domain, aktifkan blok berikut:
+# :80 {
+#     reverse_proxy 127.0.0.1:3000
+# }
