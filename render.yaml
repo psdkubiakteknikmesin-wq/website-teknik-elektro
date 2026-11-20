@@ -1,0 +1,39 @@
+# ── Render.com — deploy satu klik (Docker + disk persisten) ──────────────
+# Cara pakai:
+#   1. Unggah folder ini ke repositori GitHub/GitLab.
+#   2. Render → New → Blueprint → pilih repositori.
+#   3. Isi SESSION_SECRET, ADMIN_PASSWORD, dan BASE_URL saat diminta.
+services:
+  - type: web
+    name: siprel-elektro
+    runtime: docker
+    plan: starter
+    region: singapore
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /healthz
+    autoDeploy: true
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DATA_DIR
+        value: /data
+      - key: SESSION_SECRET
+        generateValue: true
+      - key: ADMIN_EMAIL
+        value: admin@elektro.uncen.ac.id
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: ADMIN_NAME
+        value: Administrator Jurusan
+      - key: BASE_URL
+        sync: false
+      - key: WA_PROVIDER
+        sync: false
+      - key: WA_TOKEN
+        sync: false
+      - key: WA_AUTO
+        value: "0"
+    disk:
+      name: siprel-data
+      mountPath: /data
+      sizeGB: 1

@@ -1,0 +1,18 @@
+{
+  "name": "SIPREL — Surat Elektro UNCEN",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:22",
+  "postStartCommand": "nohup node server.js > /tmp/siprel.log 2>&1 &",
+  "forwardPorts": [3000],
+  "portsAttributes": {
+    "3000": {
+      "label": "SIPREL",
+      "visibility": "public",
+      "onAutoForward": "openBrowser"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": []
+    }
+  }
+}

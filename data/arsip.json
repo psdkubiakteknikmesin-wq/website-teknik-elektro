@@ -1,0 +1,6143 @@
+[
+ {
+  "nomor": "109/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": null,
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT LN ( Persero ) UP3 Abepura",
+  "data": [],
+  "waktu": "Juni – Juli",
+  "peserta": [
+   {
+    "nama": "Nurhanik Masyhuroh",
+    "nim": "2023061024014",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Maulinda Eka Apryani",
+    "nim": "2023061024041",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "110/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": null,
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT LN ( Persero ) ULP Abepura",
+  "data": [],
+  "waktu": "Juni – Juli",
+  "peserta": [
+   {
+    "nama": "Nurhanik Masyhuroh",
+    "nim": "2023061024014",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Maulinda Eka Apryani",
+    "nim": "2023061024041",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "604/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": null,
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Gasal TA 2026-2027",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Metanus Soll",
+    "nim": "2020061024114",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "002/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2025-01-09",
+  "nama": "Melky Anderson Luturmas",
+  "nim": "2019061024107",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN ( PERSERO ) UP3 Jayapura",
+  "data": [
+   "Trafo 70 KV",
+   "Trafo 150 KV",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "004/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-01-12",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Junior Andrias G. Aibini",
+    "nim": "2019061024015",
+    "prodi": ""
+   },
+   {
+    "nama": "Samuel R.J. Kaikatui",
+    "nim": "2019061024045",
+    "prodi": ""
+   },
+   {
+    "nama": "Mawar H.P. Paisei",
+    "nim": "2019061024122",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "005/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-01-12",
+  "nama": "Renaldi Bryan B. Yepese",
+  "nim": "2023061024063",
+  "prodi": "Strata Satu (S1)",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH BPJS.docx"
+ },
+ {
+  "nomor": "006/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_POTONG",
+  "type_label": "Permohonan Pemotongan UKT",
+  "tanggal": "2026-01-12",
+  "nama": "Egy Ardiansyah Syahrir",
+  "nim": "2019061024022",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pemotongan UKT",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PEMOTONGAN UKT.docx"
+ },
+ {
+  "nomor": "012/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-01-15",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Aisya Kepno",
+    "nim": "2019061024058",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "013/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_POTONG",
+  "type_label": "Permohonan Pemotongan UKT",
+  "tanggal": "2026-01-15",
+  "nama": "Erdiko Wanimbo",
+  "nim": "2019061024048",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pemotongan UKT",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PEMOTONGAN UKT.docx"
+ },
+ {
+  "nomor": "014/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_POTONG",
+  "type_label": "Permohonan Pemotongan UKT",
+  "tanggal": "2026-01-15",
+  "nama": "Yohanes Maria Vianei Tokan",
+  "nim": "2020061024130",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pemotongan UKT",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PEMOTONGAN UKT.docx"
+ },
+ {
+  "nomor": "014/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_POTONG",
+  "type_label": "Permohonan Pemotongan UKT",
+  "tanggal": "2026-01-15",
+  "nama": "Tinus Pagawak",
+  "nim": "2020061024164",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pemotongan UKT",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PEMOTONGAN UKT.docx"
+ },
+ {
+  "nomor": "018/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-01-19",
+  "nama": "Agus Amandus Swabra",
+  "nim": "2020061024016",
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "031/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_POTONG",
+  "type_label": "Permohonan Pemotongan UKT",
+  "tanggal": "2026-01-19",
+  "nama": "Tanius Logo",
+  "nim": "2020061024171",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pemotongan UKT",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PEMOTONGAN UKT.docx"
+ },
+ {
+  "nomor": "068/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-01-19",
+  "nama": "Agus Amandus Swabra",
+  "nim": "2020061024016",
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "032/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-01-20",
+  "nama": "Isak You",
+  "nim": "2022061024139",
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "035/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_POTONG",
+  "type_label": "Permohonan Pemotongan UKT",
+  "tanggal": "2026-01-20",
+  "nama": "Petrus Antonius Letsoin",
+  "nim": "2021061024044",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pemotongan UKT",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PEMOTONGAN UKT.docx"
+ },
+ {
+  "nomor": "036/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_POTONG",
+  "type_label": "Permohonan Pemotongan UKT",
+  "tanggal": "2026-01-20",
+  "nama": "Henrikus Faskal Mangopo",
+  "nim": "2021061024087",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pemotongan UKT",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PEMOTONGAN UKT.docx"
+ },
+ {
+  "nomor": "037/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-01-20",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT LN ( Persero ) UP3 Jayapura",
+  "data": [],
+  "waktu": "Januari - Maret",
+  "peserta": [
+   {
+    "nama": "Abraham Lambe",
+    "nim": "2023061023007",
+    "prodi": "Diploma III"
+   },
+   {
+    "nama": "Wene Wanimbo",
+    "nim": "2023061023010",
+    "prodi": "Diploma III"
+   },
+   {
+    "nama": "Arfei Yual",
+    "nim": "2023061023006",
+    "prodi": "Diploma III"
+   },
+   {
+    "nama": "Kelimas Kabak",
+    "nim": "2023061023011",
+    "prodi": "Diploma III"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "038/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_POTONG",
+  "type_label": "Permohonan Pemotongan UKT",
+  "tanggal": "2026-01-20",
+  "nama": "Ibnu Al Ayubi",
+  "nim": "2021061024021",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pemotongan UKT",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PEMOTONGAN UKT.docx"
+ },
+ {
+  "nomor": "039/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_POTONG",
+  "type_label": "Permohonan Pemotongan UKT",
+  "tanggal": "2026-01-20",
+  "nama": "Rivaldo Lewi Datuan",
+  "nim": "2021061024030",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pemotongan UKT",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PEMOTONGAN UKT.docx"
+ },
+ {
+  "nomor": "540/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-01-20",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "Hotel Suni Sentani",
+  "data": [],
+  "waktu": "September - November",
+  "peserta": [
+   {
+    "nama": "Abraham Lambe",
+    "nim": "2023061023007",
+    "prodi": "Diploma III"
+   },
+   {
+    "nama": "Wene Wanimbo",
+    "nim": "2023061023010",
+    "prodi": "Diploma III"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "040/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-01-22",
+  "nama": "Lordianus Walilo",
+  "nim": "2019061024148",
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "041/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_POTONG",
+  "type_label": "Permohonan Pemotongan UKT",
+  "tanggal": "2026-01-22",
+  "nama": "Billyam Eliser Mambrasar",
+  "nim": "2019061024086",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pemotongan UKT",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PEMOTONGAN UKT.docx"
+ },
+ {
+  "nomor": "042/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_POTONG",
+  "type_label": "Permohonan Pemotongan UKT",
+  "tanggal": "2026-01-22",
+  "nama": "Muhammad Farhan Hidayat",
+  "nim": "2021061024013",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pemotongan UKT",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PEMOTONGAN UKT.docx"
+ },
+ {
+  "nomor": "043/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_POTONG",
+  "type_label": "Permohonan Pemotongan UKT",
+  "tanggal": "2026-01-22",
+  "nama": "Piter Himan",
+  "nim": "2021061024020",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pemotongan UKT",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PEMOTONGAN UKT.docx"
+ },
+ {
+  "nomor": "047/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-01-27",
+  "nama": "Melky Anderson Luturmas",
+  "nim": "2019061024107",
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "048/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_POTONG",
+  "type_label": "Permohonan Pemotongan UKT",
+  "tanggal": "2026-01-27",
+  "nama": "Adriana Griapon",
+  "nim": "2020061024013",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pemotongan UKT",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PEMOTONGAN UKT.docx"
+ },
+ {
+  "nomor": "049/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-01-27",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "Pimpinan RH petugas ltd",
+  "data": [],
+  "waktu": "Juli - Agustus",
+  "peserta": [
+   {
+    "nama": "Elia Theofilus Apalem",
+    "nim": "2023061024003",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Muhammad Suhardi",
+    "nim": "2023061024150",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Enriquel H D Boseren",
+    "nim": "2023061024035",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Ayub Koresi Mumuan",
+    "nim": "2023061024088",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "050/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_POTONG",
+  "type_label": "Permohonan Pemotongan UKT",
+  "tanggal": "2026-01-27",
+  "nama": "Dimas Yalak",
+  "nim": "2020061024026",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pemotongan UKT",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PEMOTONGAN UKT.docx"
+ },
+ {
+  "nomor": "051/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_POTONG",
+  "type_label": "Permohonan Pemotongan UKT",
+  "tanggal": "2026-01-27",
+  "nama": "Obani Bahabol",
+  "nim": "2019061024178",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pemotongan UKT",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PEMOTONGAN UKT.docx"
+ },
+ {
+  "nomor": "053/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-01-29",
+  "nama": "Anselmus Sipka",
+  "nim": "2021062024070",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN ( PERSERO ) UP3 Jayapura",
+  "data": [
+   "",
+   "Penelitian di Rumah Pelanggan Baru Dan Pelanggan lama",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "055/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-01-30",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "Pimpinan RH Petrogas Ltd",
+  "data": [],
+  "waktu": "Juli - Agustus",
+  "peserta": [
+   {
+    "nama": "Elia Theofilus Apalem",
+    "nim": "2023061024003",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Muhammad Suhardi",
+    "nim": "2023061024150",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Enriquel H D Boseren",
+    "nim": "2023061024035",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Ayub Koresi Mumuan",
+    "nim": "2023061024088",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "058/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_POTONG",
+  "type_label": "Permohonan Pemotongan UKT",
+  "tanggal": "2026-01-30",
+  "nama": "Fielda Elsa Wensy Duwit",
+  "nim": "2019061024157",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pemotongan UKT",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PEMOTONGAN UKT.docx"
+ },
+ {
+  "nomor": "059/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_POTONG",
+  "type_label": "Permohonan Pemotongan UKT",
+  "tanggal": "2026-01-30",
+  "nama": "Mawar Henny Pricilia Paisei",
+  "nim": "2019061024122",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pemotongan UKT",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PEMOTONGAN UKT.docx"
+ },
+ {
+  "nomor": "060/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-02-02",
+  "nama": "Meslyaldo Semuel Hehahia",
+  "nim": "2024061024051",
+  "prodi": "Strata Satu (S1)",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH BPJS.docx"
+ },
+ {
+  "nomor": "061/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-02-02",
+  "nama": "Deanus Gwijangge",
+  "nim": "2021061024047",
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "062/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-02-03",
+  "nama": "Nion Penggu",
+  "nim": "2021062024008",
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "065/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-02-04",
+  "nama": "Julio Cristian Kawulur",
+  "nim": "2021061024045",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN ( PERSERO ) ULP Serui",
+  "data": [
+   "",
+   "Single Line",
+   "Data Pelanggan Tiap Trafo",
+   "Data Beban Tiap Trafo",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "066/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-02-06",
+  "nama": "Anderson Napolion wetapo",
+  "nim": "2021062024100",
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "067/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-02-06",
+  "nama": "Zadrak Yali Sobolim",
+  "nim": "2021062024038",
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "068/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-02-06",
+  "nama": "Gredy R Haluk",
+  "nim": "2024061024104",
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "069/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-02-06",
+  "nama": "Yelis Weya",
+  "nim": "2021061024134",
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "070/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_POTONG",
+  "type_label": "Permohonan Pemotongan UKT",
+  "tanggal": "2026-02-06",
+  "nama": "Okky hiroki Takayetou",
+  "nim": "2021061024002",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pemotongan UKT",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PEMOTONGAN UKT.docx"
+ },
+ {
+  "nomor": "071/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-02-06",
+  "nama": "Tekison Enumbi",
+  "nim": "2022061024",
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "071/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-02-09",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT LN ( Persero ) ULP Sentani",
+  "data": [],
+  "waktu": "Januari - Maret",
+  "peserta": [
+   {
+    "nama": "Abraham Lambe",
+    "nim": "2023061023007",
+    "prodi": "Diploma III"
+   },
+   {
+    "nama": "Wene Wanimbo",
+    "nim": "2023061023010",
+    "prodi": "Diploma III"
+   },
+   {
+    "nama": "Arfei Yual",
+    "nim": "2023061023006",
+    "prodi": "Diploma III"
+   },
+   {
+    "nama": "Kelimas Kabak",
+    "nim": "2023061023011",
+    "prodi": "Diploma III"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "072/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-02-09",
+  "nama": "Reza Mughni Yusuf",
+  "nim": "2020061024206",
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "073/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-02-11",
+  "nama": "Henrikus Faskal Mangopo",
+  "nim": "2021061024087",
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "077/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-02-11",
+  "nama": "Simon Peter Sokoy",
+  "nim": "2021061024041",
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "078/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-02-11",
+  "nama": "Christofel Bukorpioper",
+  "nim": "2022061024074",
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "082/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-02-11",
+  "nama": "Yaswanis Wanimbo",
+  "nim": "2021061024097",
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "074/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-02-12",
+  "nama": "Aloysius A Tampubolon",
+  "nim": "2022061024001",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Dinas Kesehatan Kota Jayapura",
+  "data": [
+   "",
+   "Pengambilan data sampel air untuk pengajuan alat project monitoring kualitas air minum (IOT)",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "075/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-02-12",
+  "nama": "Aloysius A Tampubolon",
+  "nim": "2022061024001",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Perusahaan Daerah Air Minum (PDAM) Kota Jayapura",
+  "data": [
+   "",
+   "Pengambilan data sampel air untuk pengajuan alat project monitoring kualitas air minum (IOT)",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "084/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-02-13",
+  "nama": "Yelis Weya",
+  "nim": "2021061024134",
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "086/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-02-18",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Hasyim Asy’ari",
+    "nim": "2022061024",
+    "prodi": ""
+   },
+   {
+    "nama": "Ariyanto Isir",
+    "nim": "2022061024",
+    "prodi": ""
+   },
+   {
+    "nama": "Yaswanis Wanimbo",
+    "nim": "2022061024",
+    "prodi": ""
+   },
+   {
+    "nama": "Ronald Pahabol",
+    "nim": "2022061024",
+    "prodi": ""
+   },
+   {
+    "nama": "Atrianus Tangke Layuk",
+    "nim": "2022061024",
+    "prodi": ""
+   },
+   {
+    "nama": "Ervina Merry F. Reba",
+    "nim": "2022061024",
+    "prodi": ""
+   },
+   {
+    "nama": "Kalis Kogoya",
+    "nim": "2022061024",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "087/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-02-18",
+  "nama": "Manila Kabak",
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "088/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-02-18",
+  "nama": "Yazis Wetipo",
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "089/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-02-18",
+  "nama": "Hamzy Amar Maulana",
+  "nim": null,
+  "prodi": "Strata Satu (S1)",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH BPJS.docx"
+ },
+ {
+  "nomor": "090/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-02-18",
+  "nama": "Warimbo Wanimbo",
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "091/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-02-18",
+  "nama": "Kalis Kogoya",
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "092/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-02-18",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT PLN ( Persero ) UP3 Abepura",
+  "data": [],
+  "waktu": "Juli – September",
+  "peserta": [
+   {
+    "nama": "M Rasyid Musaki",
+    "nim": "2023061024011",
+    "prodi": "Elektro"
+   },
+   {
+    "nama": "Hajrin Kusma",
+    "nim": "2023061024005",
+    "prodi": "Elektro"
+   },
+   {
+    "nama": "Dicky Riyanda Putra",
+    "nim": "2023061024028",
+    "prodi": "Elektro"
+   },
+   {
+    "nama": "Renaldi bryan Bekti Yepese",
+    "nim": "2023061024063",
+    "prodi": "Elektro"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "093/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-02-18",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT LN ( Persero ) UP3 Jayapura",
+  "data": [],
+  "waktu": "Januari - Maret",
+  "peserta": [
+   {
+    "nama": "M Rasyid Musaki",
+    "nim": "2023061024011",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Hajrin Kusuma",
+    "nim": "2023061024005",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Dicky Riyanda Putra",
+    "nim": "2023061024028",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "094/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-02-19",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Yusuf Womsiwor",
+    "nim": "2022061024017",
+    "prodi": ""
+   },
+   {
+    "nama": "Perlen Sengket",
+    "nim": "2022061024118",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "098/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-02-23",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Audi Jessica Menufandu",
+    "nim": "2025061024069",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "100/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-02-24",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Jhonly Yoram Wenda",
+    "nim": "2022061024100",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "101/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-02-24",
+  "nama": "Anselmus Sipka",
+  "nim": "2021061024070",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Manager PT.PLN (Persero) ULP Abepura",
+  "data": [
+   "",
+   "Penelitian di ruamh pelanggan baru dan pelanggan lama",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "106/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-02-27",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Yohanes Kosai",
+    "nim": "2023061024122",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "107/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-03-02",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Ulas Huby",
+    "nim": "20250614024078",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "111/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-03-03",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Rojen Kogoya",
+    "nim": "20250614024065",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "112/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-03-03",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Ronnald Kobak",
+    "nim": "20250614024008",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "116/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-03-04",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Pither Heluka",
+    "nim": "2023061024144",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "122/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-03-05",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT PLN ( Persero ) ULP Abepura",
+  "data": [],
+  "waktu": "Juni – Juli",
+  "peserta": [
+   {
+    "nama": "Agus Amandus Swabra",
+    "nim": "2023061024014",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "123/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-03-06",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Rahmadin Maljum",
+    "nim": "2019061024087",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "125/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-03-11",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Juliano P.j. Manufandu",
+    "nim": "2020061024236",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "142/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-03-13",
+  "nama": "Petrus Antonius Letsoin",
+  "nim": "2021061024044",
+  "prodi": "Strata Satu (S1)",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH BPJS.docx"
+ },
+ {
+  "nomor": "143/UN20.1.6.7.2/PP/2026",
+  "type": "BEASISWA_TIDAK",
+  "type_label": "Tidak Menerima Beasiswa",
+  "tanggal": "2026-03-13",
+  "nama": "Samuel Kayame",
+  "nim": "2025061024006",
+  "prodi": "Teknik Elektro SI",
+  "hal": "Tidak Menerima Beasiswa dari pihak lain",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt tdk menerima beasiswa.docx"
+ },
+ {
+  "nomor": "148/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-03-16",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT PLN ( Persero ) ULP Sentani",
+  "data": [],
+  "waktu": "Juli – Agustus",
+  "peserta": [
+   {
+    "nama": "Dwi Jaya Ardiansyah",
+    "nim": "2023061024098",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Seti Gina Mangngiri",
+    "nim": "2023061024085",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Risto Piter Rante Uma",
+    "nim": "2023061024118",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Arnel Pasorong",
+    "nim": "2023061024136",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Mitha Mina Tosuli",
+    "nim": "2023061024128",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Iqnathiius N. Usior",
+    "nim": "2023061024096",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "149/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-03-16",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT PLN ( Persero ) Unit Pelaksana Penyaluran dan Pengatur Beban (UP3B)",
+  "data": [],
+  "waktu": "Juni – Juli",
+  "peserta": [
+   {
+    "nama": "Petrus Karunia Tanditasik",
+    "nim": "2023061024032",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Imanuel Chandra Kondolele",
+    "nim": "2023061024002",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Marion Praditya Kombong",
+    "nim": "2023061024020",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Jems R. Sitorus",
+    "nim": "2023061024091",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Jimmy F. Ngala",
+    "nim": "2023061024137",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "167/UN20.1.6.7.2/PP/2026",
+  "type": "BEASISWA_TIDAK",
+  "type_label": "Tidak Menerima Beasiswa",
+  "tanggal": "2026-03-16",
+  "nama": "Rahmat Saputra",
+  "nim": "2022061024041",
+  "prodi": "Teknik Elektro SI",
+  "hal": "Tidak Menerima Beasiswa dari pihak lain",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt tdk menerima beasiswa.docx"
+ },
+ {
+  "nomor": "169/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-03-17",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT PLN ( Persero ) ULP Sentani",
+  "data": [],
+  "waktu": "Maret - April",
+  "peserta": [
+   {
+    "nama": "Wene Wanimbo",
+    "nim": "2023061024010",
+    "prodi": "Diploma III"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "171/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-03-17",
+  "nama": "Emen Fernando Yarisetou",
+  "nim": "2022061024088",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Gardu Induk Skyline, PT.PLN (Persero) ULTG Jayapura",
+  "data": [
+   "",
+   "Hasil Pengujian Tahanan Isolasi",
+   "Hasil Pengujian Tahanan Kontak",
+   "Pengukuran Vakum",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "204/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-03-30",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT PLN ( Persero ) ULP Abepura",
+  "data": [],
+  "waktu": "April - Mei",
+  "peserta": [
+   {
+    "nama": "Ero Windikbo",
+    "nim": "2021061024046",
+    "prodi": "Strata Satu (SI)"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "211/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-03-31",
+  "nama": "Oskar Enumbi",
+  "nim": "2021061024065",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT.PLN (Persero) ULP Sentani",
+  "data": [
+   "",
+   "Single Line Diagram Penyulang Sosiri",
+   "Data Pembebanan WBP/ LWBP Penyulang Sosiri",
+   "Data Trafo",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "213/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-03-31",
+  "nama": "Yakubus Kogoya",
+  "nim": "2020061024028",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Gardu Induk Skyline, PT.PLN (Persero) ULTG Jayapura",
+  "data": [
+   "",
+   "Data Transformator Daya",
+   "Data Neutral Ground Resistor",
+   "Data kabel Penghantar dan Konduktor",
+   "Data Pendukung Impedansi",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "217/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-03-31",
+  "nama": "Andi Syafrizal Maulana Nonsy",
+  "nim": "2021061024014",
+  "prodi": "Strata Satu (S1)",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH BPJS.docx"
+ },
+ {
+  "nomor": "218/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-04-01",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Junior Andrias Gilberto Aibini",
+    "nim": "2019061024015",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "219/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-01",
+  "nama": "Trisna Dwi Rahayu",
+  "nim": "2022061024021",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PLTU Holtekamp Jayapura Papua",
+  "data": [
+   "",
+   "Data Pararameter Governor",
+   "Data Pararameter Turbin",
+   "Data Pararameter Generator",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "220/UN20.1.6.7.2/PP/2026",
+  "type": "BEASISWA_TIDAK",
+  "type_label": "Tidak Menerima Beasiswa",
+  "tanggal": "2026-04-02",
+  "nama": "Lanang Wisnu Gotama",
+  "nim": "2024061024003",
+  "prodi": "Teknik Elektro SI",
+  "hal": "Tidak Menerima Beasiswa dari pihak lain",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt tdk menerima beasiswa.docx"
+ },
+ {
+  "nomor": "221/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-02",
+  "nama": "Yusril Abdullah",
+  "nim": "2022061024095",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN ULP Jayapura",
+  "data": [
+   "",
+   "Data Pembebanan Transformator",
+   "Data Kapasitas Transformator",
+   "Data Jaringan Distribusi",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "223/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-04-02",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT PLN ( Persero ) UP3 Jayapura",
+  "data": [],
+  "waktu": "Juni – Juli",
+  "peserta": [
+   {
+    "nama": "Gabriel Futunanembun",
+    "nim": "2023061024033",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Paskalis Bidamabipai Douw",
+    "nim": "2023061024018",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Iko Silip",
+    "nim": "2023061024034",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Bryan kevin Marthen Asaribab",
+    "nim": "2023061024070",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Brian Samuel Rumkabu",
+    "nim": "2023061024084",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "224/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-04-02",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT PLN ( Persero ) ULP Abepura",
+  "data": [],
+  "waktu": "Juni – Juli",
+  "peserta": [
+   {
+    "nama": "Gabriel Futunanembun",
+    "nim": "2023061024033",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Paskalis Bidamabipai Douw",
+    "nim": "2023061024018",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Iko Silip",
+    "nim": "2023061024034",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Bryan kevin Marthen Asaribab",
+    "nim": "2023061024070",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Brian Samuel Rumkabu",
+    "nim": "2023061024084",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "225/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-04-02",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT PLN ( Persero ) UP3 Manokwari",
+  "data": [],
+  "waktu": "Juli - Agustus",
+  "peserta": [
+   {
+    "nama": "Devis Menek Ririon Yewen",
+    "nim": "2023061024106",
+    "prodi": "Teknik Elektro"
+   },
+   {
+    "nama": "Gasper Manim",
+    "nim": "2023061024030",
+    "prodi": "Teknik Elektro"
+   },
+   {
+    "nama": "Yusak U Wakei",
+    "nim": "2023061024029",
+    "prodi": "Teknik Elektro"
+   },
+   {
+    "nama": "Imanuel Turot",
+    "nim": "2023061024109",
+    "prodi": "Teknik Elektro"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "318/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-04-07",
+  "nama": "Wemus Wanimbo",
+  "nim": "2025061024053",
+  "prodi": "Strata Satu",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH.docx"
+ },
+ {
+  "nomor": "230/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-04-08",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT PLN ( Persero ) UP3 Timika",
+  "data": [],
+  "waktu": "Juli - Agustus",
+  "peserta": [
+   {
+    "nama": "Danielson M Yaroseray",
+    "nim": "2023061024043",
+    "prodi": "Teknik Elektro"
+   },
+   {
+    "nama": "Dwi Aryoko",
+    "nim": "2023061024139",
+    "prodi": "Teknik Elektro"
+   },
+   {
+    "nama": "Marcia E. C. Woisiri",
+    "nim": "2023061024156",
+    "prodi": "Teknik Elektro"
+   },
+   {
+    "nama": "Sony Yelemaken",
+    "nim": "2023061024064",
+    "prodi": "Teknik Elektro"
+   },
+   {
+    "nama": "Didier Rivadri",
+    "nim": "2023061024079",
+    "prodi": "Teknik Elektro"
+   },
+   {
+    "nama": "Melkias Masa",
+    "nim": "2023061024006",
+    "prodi": "Teknik Elektro"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "231/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-04-08",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "BLK (Balai Latihan Kerja) Papua",
+  "data": [],
+  "waktu": "Juli - Agustus",
+  "peserta": [
+   {
+    "nama": "Mey Susana Avia Kailey",
+    "nim": "2023061024017",
+    "prodi": "Teknik Elektro"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "231/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-04-10",
+  "nama": "Petrus Karunia Tanditasik",
+  "nim": "2023061024032",
+  "prodi": "Strata Satu (S1)",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH BPJS.docx"
+ },
+ {
+  "nomor": "235/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-04-13",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT LN ( Persero ) UP3 Jayapura",
+  "data": [],
+  "waktu": "Juni – Juli",
+  "peserta": [
+   {
+    "nama": "Nurhanik Masyhuroh",
+    "nim": "2023061024014",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Maulinda Eka Apryani",
+    "nim": "2023061024041",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "236/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-04-13",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT LN ( Persero ) ULP Abepura",
+  "data": [],
+  "waktu": "Juni – Juli",
+  "peserta": [
+   {
+    "nama": "Isai Saliangen",
+    "nim": "2022061024107",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Hatin Mirin",
+    "nim": "2022061024100",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "237/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-04-13",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "Unit Layanan Pusat Listrik Disel Jayapura (PLTD) Waena",
+  "data": [],
+  "waktu": "Juni – Juli",
+  "peserta": [
+   {
+    "nama": "Abraham Johnny Lambe",
+    "nim": "2023061023007",
+    "prodi": "Diploma III"
+   },
+   {
+    "nama": "Wene Wanimbo",
+    "nim": "2023061023010",
+    "prodi": "Diploma III"
+   },
+   {
+    "nama": "Kelimas Kabak",
+    "nim": "2023061023011",
+    "prodi": "Diploma III"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "238/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-13",
+  "nama": "Yance Matuan",
+  "nim": "2022061024067",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (Persero) ULP Jayapura",
+  "data": [
+   "",
+   "Single Line Diagram",
+   "Penghantar Konduktor",
+   "Data Beban Trafo/ Gardu",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "238/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-04-13",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PLTD Waena, Manager UPK Papua Dan Papua Barat",
+  "data": [],
+  "waktu": "Juli – Agustus",
+  "peserta": [
+   {
+    "nama": "Yohana M.V. Bubre",
+    "nim": "2023061024095",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Ronalda D. Manggombo",
+    "nim": "2023061024130",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Jenni Marisan",
+    "nim": "2023061024125",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Yanes Pahabol",
+    "nim": "2023061024025",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "242/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-14",
+  "nama": "Erens Nicodemus Kemesrar",
+  "nim": "2022061023011",
+  "prodi": "Diploma III",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "UP3 Jayapura",
+  "data": [
+   "",
+   "Data Panjang Jaringan",
+   "Data Konduktor",
+   "Data Beban",
+   "Data Faktor Daya",
+   "Data Arus",
+   "Data Tegangan Kirim Dan Terima",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "243/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-14",
+  "nama": "Melius Hilapok",
+  "nim": "2022061023006",
+  "prodi": "Diploma III",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "UP3 Jayapura",
+  "data": [
+   "",
+   "Data Pemadaman Listrik Terjadwal Dan Tidak Terjadwal",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "252/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-14",
+  "nama": "OnisimusW. Matjora",
+  "nim": "2020061024034",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN ULP Genyem",
+  "data": [
+   "",
+   "Data Gangguan Dan Kerusakan Gardu",
+   "Data Standar PLN Dan Pull",
+   "Buku Atau Jurnal Yang Berhubungan Dengan Sistem Pentanahan",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "253/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-14",
+  "nama": "Jhosua Y.S. Kafiar",
+  "nim": "2022061023007",
+  "prodi": "Diploma III",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN ULP Abepura",
+  "data": [
+   "",
+   "Data Single Line Diagram (SLD)",
+   "Data Pembebanan Trafo",
+   "Data Pengukuran Bulanan",
+   "Data Waktu Beban Puncak",
+   "Data Luar Beban Puncak",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "254/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-14",
+  "nama": "P. Kantor Surabut",
+  "nim": "2022061023008",
+  "prodi": "Teknik Elektro Diploma III",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN ULP Abepura",
+  "data": [
+   "",
+   "Data Single Line Diagram (SLD)",
+   "Data Pembebanan Trafo",
+   "Data Pengukuran Bulanan",
+   "Data Waktu Beban Puncak",
+   "Data Luar Beban Puncak",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "256/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-15",
+  "nama": "Toni Matuan",
+  "nim": "2020061024096",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN UP3 Waena",
+  "data": [
+   "",
+   "Data Panjang Penyulang Edelweis",
+   "Data Impendansi Penyulang Edelweis",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "257/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-04-15",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT. PLN (Persero) UP3 Jayapura",
+  "data": [],
+  "waktu": "Juli – Agustus",
+  "peserta": [
+   {
+    "nama": "Yohana M.V. Bubre",
+    "nim": "2023061024095",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Ronalda D. Manggombo",
+    "nim": "2023061024130",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Jenni Marisan",
+    "nim": "2023061024125",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Yanes Pahabol",
+    "nim": "2023061024025",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Orlando Rumbrawer",
+    "nim": "2023061024019",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "261/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-15",
+  "nama": "Okky Hiroki Takayetou",
+  "nim": "2021061024002",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (Persero) UP3 Jayapura",
+  "data": [
+   "",
+   "Data Gangguan Penyulang",
+   "Data Jumlah Pelanggan",
+   "Data Single Line Diagram (SID)",
+   "Data Panjang Saluran",
+   "Data Peralatan Jaringan",
+   "Data Laju Kegagalan",
+   "Data Trafo",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "265/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-15",
+  "nama": "Hamzy Amar Maulana",
+  "nim": "2022061024037",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (Persero) UP3 Jayapura",
+  "data": [
+   "",
+   "Data Beban Harian Atau Tahunan Kampung Meukisi",
+   "Spesifikasi Komponen Komponen PLTS Meukisi",
+   "RAB PLTS Meukisi",
+   "Radiasi Matahari",
+   "Data Operasional Harian",
+   "",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "266/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-15",
+  "nama": "Hamzy Amar Maulana",
+  "nim": "2022061024037",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Kepala Kampung Meukisi Distrik Yokari, Kabupaten Jayapura",
+  "data": [
+   "",
+   "Data Beban Harian Atau Tahunan Kampung Meukisi",
+   "Spesifikasi Komponen Komponen PLTS Meukisi",
+   "RAB PLTS Meukisi",
+   "Radiasi Matahari",
+   "Data Operasional Harian",
+   "",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "267/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-15",
+  "nama": "Sefanto A. Manuolla",
+  "nim": "2022061024024",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (Persero) UP3 Jayapura",
+  "data": [
+   "",
+   "Data Beban Harian Atau Tahunan Kampung Meukisi",
+   "Spesifikasi Komponen Komponen PLTS Meukisi",
+   "RAB PLTS Meukisi",
+   "Radiasi Matahari",
+   "Data Operasional Harian",
+   "",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "268/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-15",
+  "nama": "Sefanto A. Manuolla",
+  "nim": "2022061024024",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Kepala Kampung Meukisi Distrik Yokari, Kabupaten Jayapura",
+  "data": [
+   "",
+   "Data Beban Harian Atau Tahunan Kampung Meukisi",
+   "Spesifikasi Komponen Komponen PLTS Meukisi",
+   "RAB PLTS Meukisi",
+   "Radiasi Matahari",
+   "Data Operasional Harian",
+   "",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "269/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-15",
+  "nama": "Armius Kogoya",
+  "nim": "2020061024141",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (Persero) ULP Abepura",
+  "data": [
+   "",
+   "Transformator",
+   "Trafo Daya Power Teras",
+   "Pembangkit listrik Gardu Induk Dan Distribusi",
+   "",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "270/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-17",
+  "nama": "Censy latuni",
+  "nim": "2020061024103",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (Persero) ULP Genyem",
+  "data": [
+   "",
+   "Single Line Diagram",
+   "Data Panjang Saluran",
+   "Data Banyak Pelanggan",
+   "Data Laju Kegagalan Sistem Distribusi",
+   "",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "271/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-04-17",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT. PLN Indonesia Power UBP Holtekamp",
+  "data": [],
+  "waktu": "Mei - April",
+  "peserta": [
+   {
+    "nama": "Abraham J Lambe",
+    "nim": "2023061023007",
+    "prodi": "Diploma III"
+   },
+   {
+    "nama": "Wene Wanimbo",
+    "nim": "2023061023010",
+    "prodi": "Diploma III"
+   },
+   {
+    "nama": "Kelimas Kabak",
+    "nim": "2023061023011",
+    "prodi": "Diploma III"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "273/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-04-20",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "Saga Abepura",
+  "data": [],
+  "waktu": "Mei – April",
+  "peserta": [
+   {
+    "nama": "Abraham J Lambe",
+    "nim": "2023061023007",
+    "prodi": "Diploma III"
+   },
+   {
+    "nama": "Wene Wanimbo",
+    "nim": "2023061023010",
+    "prodi": "Diploma III"
+   },
+   {
+    "nama": "Kelimas Kabak",
+    "nim": "2023061023011",
+    "prodi": "Diploma III"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "274/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-20",
+  "nama": "Erens Nicodemus Kemesrar",
+  "nim": "2022061023011",
+  "prodi": "Diploma III",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "ULP Abepura",
+  "data": [
+   "",
+   "Data Panjang Jaringan",
+   "Impedansi (R dan X)",
+   "Data Beban",
+   "Data Faktor Daya",
+   "Data Tegangan Dan Arus",
+   "Data Tegangan Kirim Dan Terima",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "275/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-21",
+  "nama": "P. Kantor Surabut",
+  "nim": "2022061023008",
+  "prodi": "Diploma III",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (Persero) UP3 Abepura",
+  "data": [
+   "",
+   "Data Waktu Beban Puncak",
+   "Data Luar Beban Puncak",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "276/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-21",
+  "nama": "Jhosua Yusuf Saneraro Kafiar",
+  "nim": "2022061023007",
+  "prodi": "Diploma III",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "ULP Abepura",
+  "data": [
+   "",
+   "Data Waktu Beban Puncak",
+   "Data Luar Beban Puncak",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "277/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-21",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (Persero) UP3 Jayapura",
+  "data": [
+   "",
+   "Data Beban Harian Atau Tahunan PLTS Kampung Meukisi",
+   "Spesifikasi Komponen Komponen PLTS Meukisi",
+   "Radiasi Matahari Dan Temperatur",
+   "",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "278/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-21",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Kepala Kampung Meukisi Distrik Yokari, Kabupaten Jayapura",
+  "data": [
+   "",
+   "Jumlah Kartu Keluarga",
+   "Jumlah Penduduk",
+   "Radiasi Matahari Dan Temperatur",
+   "",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "280/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-28",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (PERSERO) ULTG Skyline Jayapura",
+  "data": [
+   "",
+   "Perhitungan Beban Dalam MVA",
+   "Beban Puncak Rata Rata Tahun 2013",
+   "Hasil Perhitungan Beban MVA Bulanan",
+   "",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "282/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-28",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (PERSERO) ULP Abepura",
+  "data": [
+   "",
+   "Data Sitem Jaringan",
+   "Data Beban",
+   "Data Gangguan",
+   "Data Pelanggan",
+   "Data Pemeliharaan",
+   "",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "283/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-04-28",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (PERSERO) ULP Abepura",
+  "data": [
+   "",
+   "Pengukuran Saifi Saidi",
+   "SLD (Single Line Diagram)",
+   "ETAP",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "292/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_DOSEN",
+  "type_label": "Permohonan Pengambilan Data (Dosen)",
+  "tanggal": "2026-04-30",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "General Manager PT. PLN (PERSERO) UIW Papua dan Papua Barat, Jl. A. Yani No. 18, Jayapura",
+  "data": [
+   "Jenis dan kapasitas pembangkit listrik tahun 2023, 2024, dan 2025",
+   "Produksi listrik tahun 2023, 2024, dan 2025",
+   "Konsumsi listrik per sektor pelanggan tahun 2025, 2024, dan 2025",
+   "Kapasitas PLTS tahun 2023, 2024, dan 2025",
+   "Jenis dan jumlah kendaraan listrik tahun 2023, 2025, dan 2025",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA DOSEN 2026.docx"
+ },
+ {
+  "nomor": "304/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-05-04",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT. PLN (Persero) UP3 Nabire",
+  "data": [],
+  "waktu": "Juli - Agustus",
+  "peserta": [
+   {
+    "nama": "Devis Menek Yewen",
+    "nim": "2023061024106",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Gasper Manim",
+    "nim": "2023061024030",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Yusak U Wakei",
+    "nim": "2023061024029",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Imanuel Turot",
+    "nim": "2023061024109",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "305/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-05-04",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PLN Nusa Daya Manokwari",
+  "data": [],
+  "waktu": "Juli - Agustus",
+  "peserta": [
+   {
+    "nama": "Devis Menek Yewen",
+    "nim": "2023061024106",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Gasper Manim",
+    "nim": "2023061024030",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Yusak U Wakei",
+    "nim": "2023061024029",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Imanuel Turot",
+    "nim": "2023061024109",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "306/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-05-04",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT. PLN (Persero) Sentani",
+  "data": [],
+  "waktu": "Juli - Agustus",
+  "peserta": [
+   {
+    "nama": "Isai Sailanggen",
+    "nim": "2022061024107",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Hatin Mirin",
+    "nim": "2022061024100",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "308/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-05-04",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (PERSERO) ULP Jayapura",
+  "data": [
+   "",
+   "Data Jumlah Pemadaman",
+   "Data Lama Pemadaman",
+   "Data Jumlah Pelanggan Yang Terdampak Dapat Pemadaman",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "312/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-05-04",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (PERSERO) ULP Sarmi",
+  "data": [
+   "",
+   "Data Beban Pada Trafo",
+   "Data WBP (Waktu Beban Puncak)",
+   "Data Single Line Diagram",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "311/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-05-05",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Manager PT. PLN (PERSERO) UP3 Jayapura",
+  "data": [
+   "",
+   "Data Beban Harian Atau Tahunan PLTS Kampung Bukisi",
+   "Spesifikasi Komponen-Komponen PLTS Bukisi",
+   "Radiasi Matahari Dan Temperatur",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "316/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-05-06",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (PERSERO) Nusa Daya Wamena",
+  "data": [
+   "",
+   "Data Perawatan Jaringan Pada PT. PLN (PERSERO) Nusa Daya Wamena",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "317/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-05-07",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (PERSERO) UP3 Wamena",
+  "data": [
+   "",
+   "Teging Data Trafo",
+   "Singleline",
+   "Panjang Saluran Dan Jenis Kabel Pengantar Impedansi Berapa",
+   "Daya Tersambung Dan Daya Terpasang",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "319/UN20.1.6.7.2/PP/2026",
+  "type": "BEASISWA_TIDAK",
+  "type_label": "Tidak Menerima Beasiswa",
+  "tanggal": "2026-05-07",
+  "nama": "Sepetinus Meke",
+  "nim": "2024061024043",
+  "prodi": "Teknik Elektro SI",
+  "hal": "Tidak Menerima Beasiswa dari pihak lain",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt tdk menerima beasiswa.docx"
+ },
+ {
+  "nomor": "320/UN20.1.6.7.2/PP/2026",
+  "type": "BEASISWA_TIDAK",
+  "type_label": "Tidak Menerima Beasiswa",
+  "tanggal": "2026-05-07",
+  "nama": "Lanang Wisnu Gotama",
+  "nim": "2024061024003",
+  "prodi": "Teknik Elektro SI",
+  "hal": "Tidak Menerima Beasiswa dari pihak lain",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt tdk menerima beasiswa.docx"
+ },
+ {
+  "nomor": "321/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-05-07",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (PERSERO) ULP Sarmi",
+  "data": [
+   "",
+   "Data Beban Pada Trafo",
+   "Data WBP (Waktu Beban Puncak)",
+   "Data Single Line Diagram",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "323/UN20.1.6.7.2/PP/2026",
+  "type": "BEASISWA_TIDAK",
+  "type_label": "Tidak Menerima Beasiswa",
+  "tanggal": "2026-05-07",
+  "nama": "Warimbo Wanimbo",
+  "nim": "2022061024138",
+  "prodi": "Teknik Elektro SI",
+  "hal": "Tidak Menerima Beasiswa dari pihak lain",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt tdk menerima beasiswa.docx"
+ },
+ {
+  "nomor": "324/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-05-11",
+  "nama": "Anselmus Sipka",
+  "nim": "2021062024070",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN ( PERSERO ) UP3 Jayapura",
+  "data": [
+   "",
+   "Data Spesifikasi Kwh Meter Pascabayar Dan Prabayar",
+   "Data Umur Pemakaian Meter Pascabayar Dan Prabayar",
+   "Data Hasil Pengukuran Energi Pascabayar Dan Prabayar",
+   "Data Pengujian/ Tera Meter",
+   "Data Gangguan Atau Kerusakan Meter",
+   "Data Tarif Dan Golongan Pelanggan",
+   "Data Standar Opersional PLN",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "327/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-05-11",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT. PLN (Persero) Unit Induk Wilayah Papua Dan Papua Barat",
+  "data": [],
+  "waktu": "Juli - Agustus",
+  "peserta": [
+   {
+    "nama": "Erosa Natalia Simangunsong",
+    "nim": "2023061024024",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Muhammad Wijdan Afif",
+    "nim": "2023061024031",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Chrisson Karelhein Yos Berhitu",
+    "nim": "20230610240102",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Nurul Rohikum Mahtum Fitriyani Tiflen",
+    "nim": "20230610240149",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "328/UN20.1.6.7.2/PP/2026",
+  "type": "BEASISWA_TIDAK",
+  "type_label": "Tidak Menerima Beasiswa",
+  "tanggal": "2026-05-11",
+  "nama": "Eton Lambe",
+  "nim": "2024061024009",
+  "prodi": "Teknik Elektro SI",
+  "hal": "Tidak Menerima Beasiswa dari pihak lain",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT Pengt tdk menerima beasiswa.docx"
+ },
+ {
+  "nomor": "329/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-05-11",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT LN ( Persero ) UP3 Jayapura",
+  "data": [],
+  "waktu": "Juli - September",
+  "peserta": [
+   {
+    "nama": "M Rasyid Muzaki",
+    "nim": "2023061024011",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Hajrin Kusma",
+    "nim": "2023061024005",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Dicky Riyanda Putra",
+    "nim": "2023061024028",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Renaldi Bryan Bekti Yepese",
+    "nim": "2023061024063",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "331/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-05-11",
+  "nama": "Muhammad Rayhan Irsyahdilla",
+  "nim": "2021062024066",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "ULTG Jayapura GI Skyline",
+  "data": [
+   "",
+   "Nilai Resistansi Kontak",
+   "Waktu Operasi",
+   "Nilai Pentanahan Pmt",
+   "Nilai Tahanan Isolasi",
+   "Gangguan Selama 3 Tahun Terakhir - Sekarang",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "332/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-05-11",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT PLN ( Persero ) ULP Abepura",
+  "data": [],
+  "waktu": "Juni – Juli",
+  "peserta": [
+   {
+    "nama": "Agus Amandus Swabra",
+    "nim": "2023061024014",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "343/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-05-12",
+  "nama": "Iqnathius N. Usior",
+  "nim": "2023061024096",
+  "prodi": "Strata Satu (S1)",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH BPJS.docx"
+ },
+ {
+  "nomor": "344/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-05-12",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT PLN ( Persero ) Unit Pelaksana Penyaluran dan Pengatur Beban (UP3B)",
+  "data": [],
+  "waktu": "Juli - Agustus",
+  "peserta": [
+   {
+    "nama": "Petrus Karunia Tanditasik",
+    "nim": "2023061024032",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Imanuel Chandra Kondolele",
+    "nim": "2023061024002",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Marion Praditya Kombong",
+    "nim": "2023061024020",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Jems R. Sitorus",
+    "nim": "2023061024091",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Jimmy F. Ngala",
+    "nim": "2023061024137",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "345/UN20.1.6.7.2/PP/2026",
+  "type": "PINDAH",
+  "type_label": "Permohonan Pindah Kuliah",
+  "tanggal": "2026-05-12",
+  "nama": "Us Maling",
+  "nim": "2020061024113",
+  "prodi": "S1- Teknik Elektro",
+  "hal": "Permohonan Pindah Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "permohonan pindah kuliah.docx"
+ },
+ {
+  "nomor": "512/UN20.1.6.7.2/PP/2026",
+  "type": "PINDAH",
+  "type_label": "Permohonan Pindah Kuliah",
+  "tanggal": "2026-05-12",
+  "nama": "Nicodemus Petege",
+  "nim": "2021061024104",
+  "prodi": "S1- Teknik Elektro",
+  "hal": "Permohonan Pindah Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "permohonan pindah kuliah.docx"
+ },
+ {
+  "nomor": "346/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-05-18",
+  "nama": "Marcia E. C. Woisiri",
+  "nim": "2023061024156",
+  "prodi": "Teknik Elektro",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH.docx"
+ },
+ {
+  "nomor": "351/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-05-18",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT PLN ( Persero ) Unit Pelaksana Pelayanan Pelanggan UP3 Jayapura",
+  "data": [],
+  "waktu": "Juli - Agustus",
+  "peserta": [
+   {
+    "nama": "Dewataura Banno Pali",
+    "nim": "2023061024009",
+    "prodi": "Elektro"
+   },
+   {
+    "nama": "Samuel Rivaldo Hokor",
+    "nim": "2023061024138",
+    "prodi": "Elektro"
+   },
+   {
+    "nama": "Rizky Dwi Nugroho",
+    "nim": "2023061024013",
+    "prodi": "Elektro"
+   },
+   {
+    "nama": "Anggi Dava Saputra",
+    "nim": "2023061024108",
+    "prodi": "Elektro"
+   },
+   {
+    "nama": "Kameri Daniel Waroy",
+    "nim": "2023061024121",
+    "prodi": "Elektro"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "352/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-05-18",
+  "nama": "Piltra Mellulo",
+  "nim": "2022061024069",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Gardu Induk GI Skyline",
+  "data": [
+   "",
+   "Data Spesifikasi Teknis Lighting Arrester (LA) yang terpasang di Gardu Induk Skyline : ( Tipe, Rated Voltage, MCOU, Karakteristik V-1)",
+   "Data Single Line Diagram Gardu Induk Skyline",
+   "Data Spesifikasi Peralatan yang di lindungi ( Transformator Pjnt dan lain-lain)",
+   "Data Jarak Pemadangan Arrester Ke Peralatan yang dilindungi",
+   "Data Kinerja lighting Arrester saat terjadi sambaran petir",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "352/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-05-18",
+  "nama": "Kevin I. G. Junior",
+  "nim": "2022061024014",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "ULP Abepura",
+  "data": [
+   "",
+   "Ralisasi P2TL Periode Triwulan 4 (Oktober-Desember 2025)",
+   "Data susut non teknis",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "352/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-05-18",
+  "nama": "Arif Hidayat",
+  "nim": "2022061024049",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Balai Monitor Spektrum Frekuensi Radio Kelas II Jayapura",
+  "data": [
+   "",
+   "Pemakain Energi Listrik dan Luas Bangunan",
+   "Data Penggunaan Peralatan Listrik",
+   "Data Jumlah dan Jenis Peralatan Listrik",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "352/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-05-20",
+  "nama": "Hila siepana kabak",
+  "nim": "2022061024002",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT PLN (Persero) ULP Timika jaya rayon kp yahukimo papua pegunungan",
+  "data": [
+   "",
+   "Data arus beban pada transformasi distribusi",
+   "Data arus tegangan pada sisi sekunder",
+   "Data kapasitas transformator distribusi",
+   "Data jumlah pelanggan pada gardu distribusi",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "353/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-05-20",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "ULP GEYEM",
+  "data": [],
+  "waktu": "Juli - Agustus",
+  "peserta": [
+   {
+    "nama": "Steve Imanuel Suatan",
+    "nim": "2023061024052",
+    "prodi": "Elektro"
+   },
+   {
+    "nama": "Lukas Waisimon",
+    "nim": "2023061024146",
+    "prodi": "Elektro"
+   },
+   {
+    "nama": "Renaldi Tejbana",
+    "nim": "2023061024045",
+    "prodi": "Elektro"
+   },
+   {
+    "nama": "Rifky Argianda",
+    "nim": "2023061024026",
+    "prodi": "Elektro"
+   },
+   {
+    "nama": "Josep S Hattu",
+    "nim": "2023061024092",
+    "prodi": "Elektro"
+   },
+   {
+    "nama": "Kameri D. Waroy",
+    "nim": "2023061024121",
+    "prodi": "Elektro"
+   },
+   {
+    "nama": "Arturo Justin",
+    "nim": "2023061024117",
+    "prodi": "Elektro"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "356/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-05-20",
+  "nama": "Ervina M Fortuna Reba",
+  "nim": "2022061024062",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Badan Meterorologi Maritim Kelas III Dok II Jayapura Taman alat-alat Meterorologi",
+  "data": [
+   "",
+   "Nilai resistensi pembumian (ohm)",
+   "Spesifikasi alat ukur",
+   "Data teknis eksisting sppt",
+   "Data kondisi sisik",
+   "Data hari guruh",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "357/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-05-20",
+  "nama": "Alridgeson Engeiberth paath",
+  "nim": "2022061024086",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "kepala kampung ormu Kabupaten Jayapura, Provinsi Papua, Indonesia, Ravenirara",
+  "data": [
+   "",
+   "Kapasitas PLTS yang terpasang 30 Kwp",
+   "Janis dan Spesifikasi modul surya",
+   "Jenis peralatan listrik yang di gunakan masyarakat",
+   "Lama penggunaan listrik dalam satu hari",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "358/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-05-21",
+  "nama": "Barimin Uburuangge",
+  "nim": "2025061024072",
+  "prodi": "Teknik Elektro",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH.docx"
+ },
+ {
+  "nomor": "358/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-05-21",
+  "nama": "Rivaldo Lewi Datuan",
+  "nim": "2021061024030",
+  "prodi": "Teknik Elektro",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH.docx"
+ },
+ {
+  "nomor": "358/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-05-21",
+  "nama": "Arini Kogoya",
+  "nim": "2024061024058",
+  "prodi": "Teknik Elektro",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH.docx"
+ },
+ {
+  "nomor": "360/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-05-21",
+  "nama": "Ahikam Trins Yikwa",
+  "nim": "2020061024227",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "GI Skyline",
+  "data": [
+   "",
+   "Data trafo tenaga",
+   "Data ocr sisi incoming 20 Kv",
+   "Data ocr sisi outgoing",
+   "Data panjang penghantar penyulang edelwais",
+   "Data penghantar penyulang edelwais",
+   "Singel Line (SLD) edelwais",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "365/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-05-26",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT LN ( Persero ) ULP Sentani",
+  "data": [],
+  "waktu": "Juni - Juli",
+  "peserta": [
+   {
+    "nama": "Abraham Johnny Lambe",
+    "nim": "2023061023007",
+    "prodi": "Diploma III"
+   },
+   {
+    "nama": "Wene Wanimbo",
+    "nim": "2023061023010",
+    "prodi": "Diploma III"
+   },
+   {
+    "nama": "Arfei Yual",
+    "nim": "2023061023006",
+    "prodi": "Diploma III"
+   },
+   {
+    "nama": "Kelimas Kabak",
+    "nim": "2023061023011",
+    "prodi": "Diploma III"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "367/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-05-26",
+  "nama": "Bawan Rinding",
+  "nim": "2022061024114",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT PLN (Persero) ULP Abepura",
+  "data": [
+   "",
+   "Data kapasitas transformator",
+   "Data arus dan tegangang transformator",
+   "Data pembebanan transformator",
+   "Single line diagram penyulang",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "369/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-05-26",
+  "nama": "Muhammad Fauzan",
+  "nim": "2022061024071",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Dekan Fakultas Teknik Uncen",
+  "data": [
+   "",
+   "Data resistivitas tanah",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "370/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-05-26",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT LN ( Persero ) ULP Sentani",
+  "data": [],
+  "waktu": "Juli - Agustus",
+  "peserta": [
+   {
+    "nama": "Marthen A Monim",
+    "nim": "2023061024103",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Jenni Marisan",
+    "nim": "2023061024125",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Renaldi Bryan Bekti Yepese",
+    "nim": "2023061024063",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Orlando Rumbrawer",
+    "nim": "2023061024019",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "371/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-05-26",
+  "nama": "Muhammad Imam Samudra",
+  "nim": "2022061024048",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Dekan Fakultas Teknik Uncen",
+  "data": [
+   "",
+   "Data pentanahan tower transmisi 70 KV skyline- sentani",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "378/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-04",
+  "nama": "Aprisal Samal",
+  "nim": "2022061024052",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (Persero) UP3 Jayapura",
+  "data": [
+   "",
+   "Singel Line Diagram (SLD)",
+   "Data Penyulang Dahlia",
+   "Data Setting Recloser",
+   "Data Spesifikasi FCO",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "379/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-04",
+  "nama": "Adithya Dwi Apri",
+  "nim": "2022061024039",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Manager Saga Mall Abepura",
+  "data": [
+   "",
+   "Data Beban Pemakaian",
+   "Data Transformator Distribusi",
+   "Data Daya Aktif dan Daya reaktif beban",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "380/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-04",
+  "nama": "Adithya Dwi Apri",
+  "nim": "2022061024039",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (Persero) ULP Abepura",
+  "data": [
+   "",
+   "Single Line Diagram (SLD) Saga Mall",
+   "Data Penyulang Saga Mall",
+   "Data Transfomator Tenaga GH Abepura Penyulang Saga Mall",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "381/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-04",
+  "nama": "Yulex Siep",
+  "nim": "2022061023016",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (Persero) ULP Abepura",
+  "data": [
+   "",
+   "Data Jaringan JTM",
+   "Data Beban Trafo",
+   "Data Pengukuruan Tegangan",
+   "Data Pemeliharaan Jaringan",
+   "Data Gangguan",
+   "Data teknisi Pengantar",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "382/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-04",
+  "nama": "Pinus Kenelak",
+  "nim": "2022061023014",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (Persero) ULP Abepura",
+  "data": [
+   "",
+   "Data Jaringan JTM",
+   "Data Trafo",
+   "Data Jaringan",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "383/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-04",
+  "nama": "Piltra Mellolo",
+  "nim": "2022061024069",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (Persero) Gradu Induk Skyline",
+  "data": [
+   "",
+   "Data Kinerja Lghting Arrester",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "384/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-06-04",
+  "nama": "Jenni Marison",
+  "nim": "2023061024125",
+  "prodi": "Teknik Elektro",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH.docx"
+ },
+ {
+  "nomor": "384/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-09",
+  "nama": "Sefanto A. Manuolla",
+  "nim": "2022061024024",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "ULP Sentani",
+  "data": [
+   "",
+   "Data beban harian, bulanan dan tahunan PLTS Kampung Meukisi",
+   "Spesifikasi komponen-komponen PLTS Meukisi",
+   "Radiasi matahari dan temperatur",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "385/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-09",
+  "nama": "Hamzy Amar Maulana",
+  "nim": "2022061024024",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "ULP Sentani",
+  "data": [
+   "",
+   "Data beban harian, bulanan dan tahunan PLTS Kampung Meukisi",
+   "Spesifikasi komponen-komponen PLTS Meukisi",
+   "Radiasi matahari dan temperatur",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "398/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-09",
+  "nama": "Alwi",
+  "nim": "2022061024099",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "GI Skyline",
+  "data": [
+   "",
+   "Data peralatan pentanahan",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "399/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-09",
+  "nama": "Risaldi",
+  "nim": "2022061024171",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "ULP Abepura",
+  "data": [
+   "",
+   "Data pelanggan listrik",
+   "Data transformator distribusi",
+   "Data pembebanan transformator",
+   "Data pemakaian listrik (KWH)",
+   "Data tarif tenaga listrik",
+   "Data jaringan distribusi penyulang",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "400/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-09",
+  "nama": "Firminus A Helyanan",
+  "nim": "2022061024015",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Gardu Induk Skyline PT.PLN (Persero)",
+  "data": [
+   "",
+   "Data pengukuran peralatan 150 KV",
+   "Data pentanahan tahun ini",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "401/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-09",
+  "nama": "Armius Kogoya",
+  "nim": "2020061024141",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PLTD Waena",
+  "data": [
+   "",
+   "Data gardu distribusi",
+   "Data analisis laju ke jalan trafo",
+   "Transformator",
+   "Trafo daya power teras",
+   "Pembangkit listrik gardu induk dan distribusi",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "402/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-09",
+  "nama": "Aco Kolago",
+  "nim": "2020061024169",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "GI Skyline PT.PLN (Persero)",
+  "data": [
+   "",
+   "Data spesifikasi transformator daya",
+   "Data current transformator (CT)",
+   "Data seting relai arus lebih",
+   "Data impedansi transformator",
+   "Data sistem pentanahan\\",
+   "Data gangguan satu fasa ke tanah",
+   "Single line diagram gardu induk skyline",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "403/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-09",
+  "nama": "Jhon Yohanis Kayame",
+  "nim": "2021061024004",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT.PLN (Persero) ULP Nabire",
+  "data": [
+   "",
+   "Data pembebanan transformator (KVA)",
+   "Data kapasitas transformator",
+   "Data jaringan distribusi ( penyulang Pinus )",
+   "Data tegangan dan arus",
+   "Data gangguan jaringan",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "413/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-09",
+  "nama": "Muhammad Farhan Hidayat",
+  "nim": "2021061024013",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT.PLN (Persero) UP3 Jayapura",
+  "data": [
+   "",
+   "Data trafo karena adanya pemadaman pemeliharaan yang menyebabkan load break switch (LBS) beroperasi pada penyulang koya 2025",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "416/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-10",
+  "nama": "Ronan Demetouw",
+  "nim": "2022061024134",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Wakil Rektor 2 Universitas Cenderawasih",
+  "data": [
+   "",
+   "Data spesifikasi sistem PLTS",
+   "Data tegangan keluar PLTS",
+   "Data arus harian PLTS",
+   "Data daya keluar PLTS",
+   "Data produksi energi harian PLTS",
+   "Data produksi energi bulanan",
+   "Data efisiensi panel surya",
+   "Data efisiensi inverter",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "417/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-06-11",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "GI Skyline PT.PLN (Persero)",
+  "data": [],
+  "waktu": "Juli - Agustus",
+  "peserta": [
+   {
+    "nama": "Abraham Johnny Lambe",
+    "nim": "2023061023007",
+    "prodi": "Diploma III"
+   },
+   {
+    "nama": "Wene Wanimbo",
+    "nim": "2023061023010",
+    "prodi": "Diploma III"
+   },
+   {
+    "nama": "Kelimas Kabak",
+    "nim": "2023061023011",
+    "prodi": "Diploma III"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "418/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-15",
+  "nama": "Rafli Yusuf Djunaidi",
+  "nim": "2022061024056",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Kantor Dinas Energi dan Sumber saya Mineral (ESDM) Provinsi Papua",
+  "data": [
+   "",
+   "Data energi listrik yang dihasilkan (KWH)",
+   "Data histrosis daya keluaran sistem (Kw)",
+   "Data radiasi matahari (KWh/M2)",
+   "Data suhu lingkungan /modul (jika ada)",
+   "Data kapasitas terpasang sistem (Kwp",
+   "Data biaya investasi awal (RP)",
+   "Data biaya Operasional dan Pemeliharaan (Rp/Tahun)",
+   "Data tarif listrik atau nilai ekonomi energi ( Rp/Kwh)",
+   "Data beban gedung",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "420/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-15",
+  "nama": "Hery Herdiansyah",
+  "nim": "2022061024054",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (Persero) ULP Sentani",
+  "data": [
+   "",
+   "Single Line penyulang jeruk dan penyulang cempaka",
+   "Data trafo dan jumlah pelanggan penyulang jeruk dan penyulang cempaka",
+   "Tabel laju keggalan dan durasi kegagalan penyulang cabang pada penyulang jeruk dan penyulang cempaka",
+   "Panjang saluran penyulan jeruk dan penyulang cempaka",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "421/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-15",
+  "nama": "Septiano S Sapan",
+  "nim": "2022061024056",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Kantor Dinas Energi dan Sumber saya Mineral (ESDM) Provinsi Papua",
+  "data": [
+   "",
+   "Single line penuyulang",
+   "Data pembebanan trafo penyulang",
+   "Data lokasi gangguan pada masing - masing section penyulang",
+   "Data jumlah dan lama pemadaman penyulang",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "422/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-06-15",
+  "nama": "Roncen Tabuni",
+  "nim": "2022061024035",
+  "prodi": "Teknik Elektro",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH.docx"
+ },
+ {
+  "nomor": "423/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-15",
+  "nama": "Rahmat Saputra",
+  "nim": "2022061024041",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Kantor Dinas Energi dan Sumber saya Mineral (ESDM) Provinsi Papua",
+  "data": [
+   "",
+   "Data Panjang Penyulang",
+   "Data jenis penghantar",
+   "Data impedansi urutan negatif dan positif",
+   "Data pentanahan",
+   "Data trafo",
+   "Data MVA hubung singkat",
+   "Data Arus hubung singkat",
+   "Data reaktansi trafo",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "424/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-15",
+  "nama": "Achmad Dhimas Arrahman",
+  "nim": "2022061024070",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Kepala Kampung Ormu",
+  "data": [
+   "",
+   "Data energi listrik yang di hasilkan",
+   "Data kapasitas panel terpasang",
+   "Data baterai",
+   "Data kabel dan distribusi",
+   "Data inverter",
+   "Data beban",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "425/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-15",
+  "nama": "Vabio Ilon Yukei",
+  "nim": "2022061024106",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (Persero) ULP Jayapura",
+  "data": [
+   "",
+   "Data panjang saluran dan jenis penghantar",
+   "Data kapasitas transformator teganggan",
+   "Data impedansi trafo",
+   "Data arus beban",
+   "Data spesifikasi dan setting recloser",
+   "Data gangguan jaringan",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "426/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-17",
+  "nama": "Tanius Logo",
+  "nim": "20200610241741",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (Persero) ULP Sarmi",
+  "data": [
+   "",
+   "Data spesifikasi trafo distribusi penyulang kota",
+   "Data pembebanan trafo distribusi",
+   "Data single line diagram",
+   "Data pengukuran LWBP dan WBP",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "430/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-06-17",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT.PLN (Persero) Unit Wilayah Papua Dan Papua Barat",
+  "data": [],
+  "waktu": "Juli - Agustus",
+  "peserta": [
+   {
+    "nama": "Epson Lokobal",
+    "nim": "2023061024055",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "431/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-17",
+  "nama": "Liston Napitupulu",
+  "nim": "2022061024034",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (Persero) ULP Sarmi",
+  "data": [
+   "",
+   "Data as-built tata letak grid pentanahan (layout dan single line diagram)",
+   "Data resistivitas tanah",
+   "Data jarak elektroda",
+   "Data jumlah titik dan jalur pengukuran di area GI",
+   "Model lapisan tanah",
+   "Kedalaman penanaman elektroda pengukuran",
+   "Koordinat atau posisi titik pengukuran 3",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "434/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-06-18",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT.PLN UP3B Jayapura – Gardu Induk Harapan Sentani",
+  "data": [],
+  "waktu": "Juli - Agustus",
+  "peserta": [
+   {
+    "nama": "Seti Gina Mangngiri’",
+    "nim": "2023061024085",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Mitha Mine Tosuli",
+    "nim": "2023061024128",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Dwi Jaya Andriansyah",
+    "nim": "2023061024098",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Iqnathiius Nathaliano Usior",
+    "nim": "2023061024096",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "435/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-18",
+  "nama": "Firstian Timoti Jansen Supit",
+  "nim": "2022061024003",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "ULP Abepura",
+  "data": [
+   "",
+   "Tegangan",
+   "Arus",
+   "Energi Litrik",
+   "WBP dan LWBP",
+   "Arah Aliran Daya",
+   "THD",
+   "Harmonik",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "435/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-06-18",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT.PLN (Persero) UP3B",
+  "data": [],
+  "waktu": "Juli - Agustus",
+  "peserta": [
+   {
+    "nama": "Seti Gina Mangngiri’",
+    "nim": "2023061024085",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Mitha Mine Tosuli",
+    "nim": "2023061024128",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Dwi Jaya Andriansyah",
+    "nim": "2023061024098",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Iqnathiius Nathaliano Usior",
+    "nim": "2023061024096",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "436/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-18",
+  "nama": "Laode Abdul Karim",
+  "nim": "2022061024042",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "ULP Abepura",
+  "data": [
+   "",
+   "Tegangan",
+   "Arus",
+   "Energi Litrik",
+   "WBP dan LWBP",
+   "Arah Aliran Daya",
+   "THD",
+   "Harmonik",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "436/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-06-18",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "UP3 Jayapura",
+  "data": [],
+  "waktu": "Juli - Agustus",
+  "peserta": [
+   {
+    "nama": "Seti Gina Mangngiri’",
+    "nim": "2023061024085",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Mitha Mine Tosuli",
+    "nim": "2023061024128",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Dwi Jaya Andriansyah",
+    "nim": "2023061024098",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Iqnathiius Nathaliano Usior",
+    "nim": "2023061024096",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "437/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-18",
+  "nama": "Hizkia Lindung",
+  "nim": "2022061024004",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "ULP Abepura",
+  "data": [
+   "",
+   "Tegangan",
+   "Arus",
+   "Energi Litrik",
+   "WBP dan LWBP",
+   "Arah Aliran Daya",
+   "THD",
+   "Harmonik",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "438/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-18",
+  "nama": "Muhammad Sumarlin",
+  "nim": "2022061024005",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "ULP Abepura",
+  "data": [
+   "",
+   "Tegangan",
+   "Arus",
+   "Energi Litrik",
+   "WBP dan LWBP",
+   "Arah Aliran Daya",
+   "THD",
+   "Harmonik",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "438/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-06-18",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "ULP Abepura",
+  "data": [],
+  "waktu": "Juni - Agustus",
+  "peserta": [
+   {
+    "nama": "DWI JAYA ANDRIANSYAH",
+    "nim": "2023061024098",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "IQNATHIIUS N. USIOR",
+    "nim": "2023061024096",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "MITHA MINE TOSULI",
+    "nim": "2023061024128",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "SETI GINA MANGNGIRI",
+    "nim": "2023061024085",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "IQNATHIIUS N. USIOR",
+    "nim": "2023061024096",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "YOHANA BUBRE",
+    "nim": "2023061024095",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "RONALDA MANGAMBO",
+    "nim": "2023061024130",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "JENNI MARISAN",
+    "nim": "2023061024125",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "ORLANDO RUMBRAWER",
+    "nim": "2023061024019",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "YANES PAHABOL",
+    "nim": "2023061024025",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "EROSA NATALIA SIMANGUNSONG",
+    "nim": "2023061024024",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "MUH. WIJDAN AFIF",
+    "nim": "2023061024032",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "CHRISSON KARELHEIN YOS BERHITU",
+    "nim": "2023061024102",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "NURUL R.M.F TIFLEN",
+    "nim": "2023061024149",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "STEVE IMANUEL SUATAN",
+    "nim": "2023061024052",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "LUKAS WEISIMON",
+    "nim": "2023061024146",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "RENALDI TEFBANA",
+    "nim": "2023061024045",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "RIFKY ARFIANDA",
+    "nim": "2023061024026",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "JOSEP S. HATTU",
+    "nim": "2023061024092",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "ARTURO JUSTIN",
+    "nim": "2023061024117",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "GABRIEL FUTUNANEMBUN",
+    "nim": "2023061024032",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "PASKALIS B. DOUW",
+    "nim": "2023061024018",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "IKO SILIP",
+    "nim": "2023061024034",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "BRYAN K.M ASARIBAB",
+    "nim": "2023061024070",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "BRIAN SAMUEL RUMKABU",
+    "nim": "2023061024084",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "MEY SUSANA A. KAILEY",
+    "nim": "2023061024017",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "MARTHEN A. MONIM",
+    "nim": "2023061024103",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "JENNI MARISAN",
+    "nim": "2023061024125",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "ORLANDO RUMBRAWER",
+    "nim": "2023061024019",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "IMANUEL RESTU SARONGALLO",
+    "nim": "2023061024027",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "BRILLIANT IMANUEL ONESIAS WANGANIA",
+    "nim": "2023061024049",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "EPSON LOKOBAL",
+    "nim": "2023061024055",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "YOLINUS WETAPO",
+    "nim": "2023061024037",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "439/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-06-18",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "ULP Jayapura",
+  "data": [],
+  "waktu": "Juni - Agustus",
+  "peserta": [
+   {
+    "nama": "DWI JAYA ANDRIANSYAH",
+    "nim": "2023061024098",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "IQNATHIIUS N. USIOR",
+    "nim": "2023061024096",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "MITHA MINE TOSULI",
+    "nim": "2023061024128",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "SETI GINA MANGNGIRI",
+    "nim": "2023061024085",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "IQNATHIIUS N. USIOR",
+    "nim": "2023061024096",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "YOHANA BUBRE",
+    "nim": "2023061024095",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "RONALDA MANGAMBO",
+    "nim": "2023061024130",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "JENNI MARISAN",
+    "nim": "2023061024125",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "ORLANDO RUMBRAWER",
+    "nim": "2023061024019",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "YANES PAHABOL",
+    "nim": "2023061024025",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "ELIA APALEM",
+    "nim": "2023061024003",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "AYUB KORESI MUMUAN",
+    "nim": "2023061024088",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "MUHAMMAD SUHARDI",
+    "nim": "2023061024150",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "ENRIQUEL H.D. BOSEREN",
+    "nim": "2023061024035",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "EROSA NATALIA SIMANGUNSONG",
+    "nim": "2023061024024",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "MUH. WIJDAN AFIF",
+    "nim": "2023061024032",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "CHRISSON KARELHEIN YOS BERHITU",
+    "nim": "2023061024102",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "NURUL R.M.F TIFLEN",
+    "nim": "2023061024149",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "STEVE IMANUEL SUATAN",
+    "nim": "2023061024052",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "LUKAS WEISIMON",
+    "nim": "2023061024146",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "RENALDI TEFBANA",
+    "nim": "2023061024045",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "RIFKY ARFIANDA",
+    "nim": "2023061024026",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "JOSEP S. HATTU",
+    "nim": "2023061024092",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "ARTURO JUSTIN",
+    "nim": "2023061024117",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "GABRIEL FUTUNANEMBUN",
+    "nim": "2023061024032",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "PASKALIS B. DOUW",
+    "nim": "2023061024018",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "IKO SILIP",
+    "nim": "2023061024034",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "BRYAN K.M ASARIBAB",
+    "nim": "2023061024070",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "BRIAN SAMUEL RUMKABU",
+    "nim": "2023061024084",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "MEY SUSANA A. KAILEY",
+    "nim": "2023061024017",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "MARTHEN A. MONIM",
+    "nim": "2023061024103",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "JENNI MARISAN",
+    "nim": "2023061024125",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "ORLANDO RUMBRAWER",
+    "nim": "2023061024019",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "IMANUEL RESTU SARONGALLO",
+    "nim": "2023061024027",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "BRILLIANT IMANUEL ONESIAS WANGANIA",
+    "nim": "2023061024049",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "441/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-22",
+  "nama": "Muhammad Kaharuddin",
+  "nim": "2022061024102",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "ULP Abepura",
+  "data": [
+   "",
+   "Single line diagram JTR gardu STN 316 dan gambar SLD penyulang sagu",
+   "Data pengukuran gardu STN 316 dan data pengukuran Drop tegangan pelanggan pada gardu STN 316 sebelum perbaikan",
+   "Data pengukuran gardu STN 316 setelah perbaikan dan data pengukuran drop tegangan di pelanggan pda gardu STN 316 setelah perbaikan",
+   "Jadwal pekerjaan dan pemadaman ULP sentani",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "443/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-06-22",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT Perdame Bintang Utara",
+  "data": [],
+  "waktu": "Juli - Agustus",
+  "peserta": [
+   {
+    "nama": "Yonathan Dodop",
+    "nim": "2023061024135",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "444/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-06-22",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT LN ( Persero ) ULP Nabire Kota",
+  "data": [],
+  "waktu": "Juli - Agustus",
+  "peserta": [
+   {
+    "nama": "Gabriele Gloria Eugenia Gilmore Korwa",
+    "nim": "2021061024021",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "445/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-22",
+  "nama": "Aprisal Samal",
+  "nim": "2022061024052",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "ULP Sentani",
+  "data": [
+   "",
+   "Setting Recloser",
+   "Spesifikasi FCO",
+   "Data penyulang jambu",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "446/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-22",
+  "nama": "Aprisal Samal",
+  "nim": "2022061024052",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "ULP Sentani",
+  "data": [
+   "",
+   "Setting Recloser",
+   "Spesifikasi FCO",
+   "Data penyulang jambu",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "448/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-06-22",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "ULP Abepura",
+  "data": [],
+  "waktu": "Juni - Agustus",
+  "peserta": [
+   {
+    "nama": "DWI JAYA ANDRIANSYAH",
+    "nim": "2023061024098",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "IQNATHIIUS N. USIOR",
+    "nim": "2023061024096",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "MITHA MINE TOSULI",
+    "nim": "2023061024128",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "SETI GINA MANGNGIRI",
+    "nim": "2023061024085",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "IQNATHIIUS N. USIOR",
+    "nim": "2023061024096",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "YOHANA BUBRE",
+    "nim": "2023061024095",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "RONALDA MANGAMBO",
+    "nim": "2023061024130",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "JENNI MARISAN",
+    "nim": "2023061024125",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "ORLANDO RUMBRAWER",
+    "nim": "2023061024019",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "YANES PAHABOL",
+    "nim": "2023061024025",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "EROSA NATALIA SIMANGUNSONG",
+    "nim": "2023061024024",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "MUH. WIJDAN AFIF",
+    "nim": "2023061024032",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "CHRISSON KARELHEIN YOS BERHITU",
+    "nim": "2023061024102",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "NURUL R.M.F TIFLEN",
+    "nim": "2023061024149",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "STEVE IMANUEL SUATAN",
+    "nim": "2023061024052",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "LUKAS WEISIMON",
+    "nim": "2023061024146",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "RENALDI TEFBANA",
+    "nim": "2023061024045",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "RIFKY ARFIANDA",
+    "nim": "2023061024026",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "JOSEP S. HATTU",
+    "nim": "2023061024092",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "ARTURO JUSTIN",
+    "nim": "2023061024117",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "GABRIEL FUTUNANEMBUN",
+    "nim": "2023061024032",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "PASKALIS B. DOUW",
+    "nim": "2023061024018",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "IKO SILIP",
+    "nim": "2023061024034",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "BRYAN K.M ASARIBAB",
+    "nim": "2023061024070",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "BRIAN SAMUEL RUMKABU",
+    "nim": "2023061024084",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "MEY SUSANA A. KAILEY",
+    "nim": "2023061024017",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "MARTHEN A. MONIM",
+    "nim": "2023061024103",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "JENNI MARISAN",
+    "nim": "2023061024125",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "ORLANDO RUMBRAWER",
+    "nim": "2023061024019",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "IMANUEL RESTU SARONGALLO",
+    "nim": "2023061024027",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "BRILLIANT IMANUEL ONESIAS WANGANIA",
+    "nim": "2023061024049",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "EPSON LOKOBAL",
+    "nim": "2023061024055",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "YOLINUS WETAPO",
+    "nim": "2023061024037",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "449/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-06-22",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "ULP Jayapura",
+  "data": [],
+  "waktu": "Juni - Agustus",
+  "peserta": [
+   {
+    "nama": "DWI JAYA ANDRIANSYAH",
+    "nim": "2023061024098",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "IQNATHIIUS N. USIOR",
+    "nim": "2023061024096",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "MITHA MINE TOSULI",
+    "nim": "2023061024128",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "SETI GINA MANGNGIRI",
+    "nim": "2023061024085",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "IQNATHIIUS N. USIOR",
+    "nim": "2023061024096",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "YOHANA BUBRE",
+    "nim": "2023061024095",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "RONALDA MANGAMBO",
+    "nim": "2023061024130",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "JENNI MARISAN",
+    "nim": "2023061024125",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "ORLANDO RUMBRAWER",
+    "nim": "2023061024019",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "YANES PAHABOL",
+    "nim": "2023061024025",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "EROSA NATALIA SIMANGUNSONG",
+    "nim": "2023061024024",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "MUH. WIJDAN AFIF",
+    "nim": "2023061024032",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "CHRISSON KARELHEIN YOS BERHITU",
+    "nim": "2023061024102",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "NURUL R.M.F TIFLEN",
+    "nim": "2023061024149",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "STEVE IMANUEL SUATAN",
+    "nim": "2023061024052",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "LUKAS WEISIMON",
+    "nim": "2023061024146",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "RENALDI TEFBANA",
+    "nim": "2023061024045",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "RIFKY ARFIANDA",
+    "nim": "2023061024026",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "JOSEP S. HATTU",
+    "nim": "2023061024092",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "ARTURO JUSTIN",
+    "nim": "2023061024117",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "GABRIEL FUTUNANEMBUN",
+    "nim": "2023061024032",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "PASKALIS B. DOUW",
+    "nim": "2023061024018",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "IKO SILIP",
+    "nim": "2023061024034",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "BRYAN K.M ASARIBAB",
+    "nim": "2023061024070",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "BRIAN SAMUEL RUMKABU",
+    "nim": "2023061024084",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "MEY SUSANA A. KAILEY",
+    "nim": "2023061024017",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "MARTHEN A. MONIM",
+    "nim": "2023061024103",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "JENNI MARISAN",
+    "nim": "2023061024125",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "ORLANDO RUMBRAWER",
+    "nim": "2023061024019",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "IMANUEL RESTU SARONGALLO",
+    "nim": "2023061024027",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "BRILLIANT IMANUEL ONESIAS WANGANIA",
+    "nim": "2023061024049",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "EPSON LOKOBAL",
+    "nim": "2023061024055",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "YOLINUS WETAPO",
+    "nim": "2023061024037",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "454/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-06-29",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT PGT porsite",
+  "data": [],
+  "waktu": "Juli - Agustus",
+  "peserta": [
+   {
+    "nama": "Felix Marsel Rumbrapuk",
+    "nim": "2023061024134",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Jhon A. Y. Ronsumbre",
+    "nim": "2023061024151",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "455/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-06-29",
+  "nama": "Yosua Ganna",
+  "nim": "2022061024006",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (Persero) ULP Abepura",
+  "data": [
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "466/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-07-07",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Nehemia Adi Nugroho",
+    "nim": "2019061024009",
+    "prodi": ""
+   },
+   {
+    "nama": "Lordianus Walilo",
+    "nim": "2019061024148",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "470/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-07-08",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Riswan Wenda",
+    "nim": "2019061024009",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "484/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-07-10",
+  "nama": "Yohanes Kosai",
+  "nim": "2023061024122",
+  "prodi": "Teknik Elektro",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH.docx"
+ },
+ {
+  "nomor": "484/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-07-10",
+  "nama": "P Kantor Surabut",
+  "nim": "2022061023008",
+  "prodi": "Teknik Elektro",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH.docx"
+ },
+ {
+  "nomor": "486/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-07-10",
+  "nama": "Sofyan Alfian Ali",
+  "nim": "2021061024009",
+  "prodi": "Strata Satu (S1)",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH BPJS.docx"
+ },
+ {
+  "nomor": "487/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-07-10",
+  "nama": "Viren Wenda",
+  "nim": "2023061024132",
+  "prodi": "Teknik Elektro",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH.docx"
+ },
+ {
+  "nomor": "489/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_POTONG",
+  "type_label": "Permohonan Pemotongan UKT",
+  "tanggal": "2026-07-13",
+  "nama": "Ryo Santoso Banjarnahor",
+  "nim": "2022061024025",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pemotongan UKT",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PEMOTONGAN UKT.docx"
+ },
+ {
+  "nomor": "505/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-08-06",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT. PLN ULP Sentani",
+  "data": [],
+  "waktu": "10 Agustus -1 September",
+  "peserta": [
+   {
+    "nama": "Risto Piter Rante Uma",
+    "nim": "2023061024118",
+    "prodi": "Strata Satu"
+   },
+   {
+    "nama": "Arnel Pasorong",
+    "nim": "2023061024136",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "507/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-08-10",
+  "nama": "Viadolorosa Pusung",
+  "nim": "2020061024218",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": null,
+  "data": [
+   "",
+   "Data pembangkit energi terbarukan (DER)",
+   "Kondisi lingkungan/ meterologi",
+   "Beban listrik (load Profile)",
+   "Sistem penyimpanan energi",
+   "Parameter jaringan dan cadangan",
+   "Kontrol dan komunikasi",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "512/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-08-10",
+  "nama": "Hanuuna Falihulayya Suabey",
+  "nim": "2022061024010",
+  "prodi": "Teknik Elektro",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH.docx"
+ },
+ {
+  "nomor": "516/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-08-11",
+  "nama": "Yance Matuan",
+  "nim": "20200610240967",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT.PLN (PERSERO) ULP Abepura",
+  "data": [
+   "",
+   "Data Tagging Penyulang Saga Mall",
+   "Data Tagging Penyulang Tanah Hitam",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "523/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_DOSEN",
+  "type_label": "Permohonan Pengambilan Data (Dosen)",
+  "tanggal": "2026-08-13",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Bidang Jaringan Dan Konstruksi PT. PLN (PERSERO) UP3 Jayapura",
+  "data": [
+   "Data Beban Trafo Penyulang Maleo",
+   "Data Tahanan Pengantar Netral Penyulang Maleo",
+   "SLD (Single Line Diagram Penyulang Maleo",
+   "Data Pengukuran Arus, Tegangan, Daya (R, S T) Penyulang Maleo",
+   "Data LWBP Dan WBP Pada Masing Masing Gardu Penyulang Maleo",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA DOSEN 2026.docx"
+ },
+ {
+  "nomor": "426/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-08-18",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Anugerah Heres Asso",
+    "nim": "2024061024050",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "427/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-08-18",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Tiranus Hagabal",
+    "nim": "2022061024108",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "428/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-08-18",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Alfer Yual",
+    "nim": "2023061023009",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "529/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-08-18",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Hariyanto Tangnga Allo",
+    "nim": "2022061024105",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "530/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-08-21",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Genap TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Reinold R. Akwan",
+    "nim": "2021061024069",
+    "prodi": ""
+   },
+   {
+    "nama": "Ronald Pahabol",
+    "nim": "2021061024079",
+    "prodi": ""
+   },
+   {
+    "nama": "Yaswanis Wanimbo",
+    "nim": "2021061024097",
+    "prodi": ""
+   },
+   {
+    "nama": "Heri S. Mote",
+    "nim": "2022061024143",
+    "prodi": ""
+   },
+   {
+    "nama": "Wetinus Murib Asso",
+    "nim": "2022061024073",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "546/UN20.1.6.7.2/PP/2026",
+  "type": "PINDAH",
+  "type_label": "Permohonan Pindah Kuliah",
+  "tanggal": "2026-08-31",
+  "nama": "Enos baye",
+  "nim": "2024061024112",
+  "prodi": "S1- Teknik Elektro",
+  "hal": "Permohonan Pindah Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "permohonan pindah kuliah.docx"
+ },
+ {
+  "nomor": "548/UN20.1.6.7.2/PP/2026",
+  "type": "KP",
+  "type_label": "Surat Pengantar Kerja Praktek/Magang",
+  "tanggal": "2026-09-01",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Pengantar Kerja Praktek/Magang",
+  "instansi": "PT Freeport Indonesia",
+  "data": [],
+  "waktu": "20 Desember 2026 – Februari 20273",
+  "peserta": [
+   {
+    "nama": "Renaldi Bryan Bekti Yepese",
+    "nim": "2023061024063",
+    "prodi": "Strata Satu"
+   }
+  ],
+  "source": "SURAT PENGANTAR KP - 2026.docx"
+ },
+ {
+  "nomor": "550/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-09-07",
+  "nama": "Aldi Putra Viantara",
+  "nim": "20200610240967",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT.PLN (PERSERO) ULP Jayapura",
+  "data": [
+   "",
+   "Data pembebanan transformator",
+   "Data RMS, IHD, THD",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "555/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-09-07",
+  "nama": "Aldi Putra Viantara",
+  "nim": "20200610240967",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Bank BTN Kota Jayapura",
+  "data": [
+   "",
+   "Data Pembebanan Transformator",
+   "Data RMS, IHD, THD",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "558/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-09-09",
+  "nama": "Hizkia Lindung",
+  "nim": "2022061024004",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Laboratorium Fakultas MIPA",
+  "data": [
+   "",
+   "KWH Meter",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "559/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-09-09",
+  "nama": "Hizkia Lindung",
+  "nim": "2022061024004",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Hotel Horiso Kotaraja",
+  "data": [
+   "",
+   "KWH Meter",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "565/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-09-09",
+  "nama": "Franiz Harivaldy Tame",
+  "nim": "2021061024062",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "UP3 Jayapura",
+  "data": [
+   "",
+   "Berapa besar pembebanan sebelum pemasangan transformator sisip",
+   "Berapa besar pembebanan sesudah di tangani",
+   "Perhitungan daya beban yang biasa digunakan berapa KW",
+   "Perhitungan berapa presentase pembebanan transformator yang biasa di gunakan",
+   "Perhitungan pembagian beban setelah penambahan transformator",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "566/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-09-23",
+  "nama": "Bawan Rinding",
+  "nim": "2022061024114",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "Manager Asko",
+  "data": [
+   "",
+   "Data Pembebanan Transformator",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "567/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-09-23",
+  "nama": "Yosua Ganna",
+  "nim": "2022061024006",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN ULP Abepura",
+  "data": [
+   "",
+   "Pengambilan Data Beban Uprating pada Penyulang Soka",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "569/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-10-01",
+  "nama": "Fawwaz Rijal Ramadan",
+  "nim": "2024061024018",
+  "prodi": "Teknik Elektro",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH.docx"
+ },
+ {
+  "nomor": "570/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-10-01",
+  "nama": "Digison Gire",
+  "nim": "2021061024073",
+  "prodi": "Teknik Elektro",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH.docx"
+ },
+ {
+  "nomor": "539/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-10-08",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Gasal TA 2025-2026",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Yanol Kakyarmabin",
+    "nim": "2023061024056",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "576/UN20.1.6.7.2/PP/2026",
+  "type": "KKN",
+  "type_label": "Permohonan KKN",
+  "tanggal": "2026-10-08",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pengantar Surat Permohonan KKN Angkatan 2023",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "Permohonan KKN.docx"
+ },
+ {
+  "nomor": "577/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-10-12",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Gasal TA 2026-2027",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Samri Pasorong",
+    "nim": "2022061024111",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "582/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-10-13",
+  "nama": "Jeremia Carel Marthen Natasian",
+  "nim": "2024061024028",
+  "prodi": "Strata Satu",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH.docx"
+ },
+ {
+  "nomor": "584/UN20.1.6.7.2/PP/2026",
+  "type": "DATA_MHS",
+  "type_label": "Permohonan Pengambilan Data (Mahasiswa)",
+  "tanggal": "2026-10-14",
+  "nama": "Censy Latuni",
+  "nim": "2020061024103",
+  "prodi": "Teknik Elektro S-1",
+  "hal": "Surat Permohonan Pengambilan Data",
+  "instansi": "PT. PLN (Persero) ULP Genyem",
+  "data": [
+   "",
+   "Single line diagram",
+   "Panjang saluran",
+   "Jumlah pelanggan",
+   "Laju kegagalan sitem distribusi",
+   "",
+   ""
+  ],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT PENGAMBILAN DATA - 2026.docx"
+ },
+ {
+  "nomor": "580/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-10-15",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Gasal TA 2026-2027",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Weliton Penggu",
+    "nim": "2021061024108",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "591/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-10-16",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH.docx"
+ },
+ {
+  "nomor": "597/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-10-22",
+  "nama": "Imanuel Turot",
+  "nim": "2023061024109",
+  "prodi": "Strata Satu (S1)",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH Beasiswa Kab Papua barat daya.docx"
+ },
+ {
+  "nomor": "588/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-10-28",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Gasal TA 2026-2027",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Muh Rayhan Irsyahdilla",
+    "nim": "20210610241066",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ },
+ {
+  "nomor": "602/UN20.1.6.7.2/PP/2026",
+  "type": "AKTIF",
+  "type_label": "Surat Keterangan Aktif Kuliah",
+  "tanggal": "2026-10-28",
+  "nama": "Ahikam T. Yikwa",
+  "nim": "20200610240227",
+  "prodi": "Strata Satu",
+  "hal": "Surat Keterangan Aktif Kuliah",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [],
+  "source": "SURAT AKTIF KULIAH.docx"
+ },
+ {
+  "nomor": "599/UN20.1.6.7.2/PP/2026",
+  "type": "UKT_BAYAR",
+  "type_label": "Pembayaran UKT",
+  "tanggal": "2026-11-02",
+  "nama": null,
+  "nim": null,
+  "prodi": null,
+  "hal": "Pembayaran UKT Semester Gasal TA 2026-2027",
+  "instansi": null,
+  "data": [],
+  "waktu": null,
+  "peserta": [
+   {
+    "nama": "Adiel Paliwan",
+    "nim": "20210610241037",
+    "prodi": ""
+   }
+  ],
+  "source": "SURAT Pengt pemby UKT.docx"
+ }
+]

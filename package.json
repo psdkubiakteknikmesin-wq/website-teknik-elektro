@@ -1,0 +1,24 @@
+{
+  "name": "siprel-elektro",
+  "version": "1.0.0",
+  "description": "SIPREL — Sistem Informasi Persuratan Jurusan Teknik Elektro, Fakultas Teknik, Universitas Cenderawasih. Portal pengajuan surat, dashboard admin, portal penerima surat dengan cetak notifikasi dan notifikasi WhatsApp.",
+  "type": "module",
+  "main": "server.js",
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "seed": "node scripts/seed.js"
+  },
+  "keywords": [
+    "persuratan",
+    "teknik-elektro",
+    "uncen",
+    "whatsapp",
+    "surat"
+  ],
+  "author": "Jurusan Teknik Elektro FT UNCEN",
+  "license": "MIT"
+}

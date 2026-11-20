@@ -1,0 +1,22 @@
+services:
+  siprel:
+    build: .
+    container_name: siprel-elektro
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      NODE_ENV: production
+      DATA_DIR: /data
+      SESSION_SECRET: "ubah-kunci-ini-minimal-32-karakter-acak"
+      ADMIN_EMAIL: "admin@elektro.uncen.ac.id"
+      ADMIN_PASSWORD: "GantiSandi#2026"
+      BASE_URL: "https://siprel.elektro.uncen.ac.id"
+      WA_PROVIDER: ""
+      WA_TOKEN: ""
+      WA_AUTO: "0"
+    volumes:
+      - siprel-data:/data
+
+volumes:
+  siprel-data:
