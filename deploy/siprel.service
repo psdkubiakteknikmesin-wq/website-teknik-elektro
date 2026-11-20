@@ -1,0 +1,24 @@
+[Unit]
+Description=SIPREL - Sistem Informasi Persuratan Teknik Elektro
+Documentation=https://github.com/psdkubiakteknikmesin-wq/website-teknik-elektro
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=siprel
+Group=siprel
+WorkingDirectory=/opt/siprel
+EnvironmentFile=/opt/siprel/.env
+ExecStart=/usr/bin/node server.js
+Restart=always
+RestartSec=3
+StandardOutput=journal
+StandardError=journal
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+ReadWritePaths=/var/lib/siprel
+
+[Install]
+WantedBy=multi-user.target
